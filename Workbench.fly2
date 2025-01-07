@@ -1,0 +1,16 @@
+particles {
+  coordinates = 0,
+  standard_beam {
+    n = 200,
+    tob = 0,
+    mass = 39.948,
+    charge = 1,
+    cwf = 1,
+    color = 2,
+    position = line_distribution {
+      first = vector(11, -49, 0),
+      last = vector(11, 49, 0)
+    },
+    velocity = vector(0, 0, 0)
+  }
+}
