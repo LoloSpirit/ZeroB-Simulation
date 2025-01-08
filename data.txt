@@ -408,4 +408,826 @@ TOF(1.96815 usec) Vt(123.466 mm/usec) KE_Error(3.89705e-05 eV)
 TOF(0.890931 usec) Vt(123.466 mm/usec) KE_Error(1.0987e-05 eV) 
 
 TOF(0.890931 usec) Vt(123.466 mm/usec) KE_Error(8.62648e-07 eV) 
+------ Begin Next Fly'm ------
+Running custom Workbench.lua
+
+
+ Begin Fly'm (Wed Jan  8 01:43:47 2025) 
+ Ions Flown Separately, Comp Quality(3) 
+ Number of Ions to Fly = 200 
+ Changes: Mass, Charge,   X,   Y,   Z,  KE,  Azm, Elv, Time of Birth 
+           NO     NO     YES  YES  YES  NO   NO   NO       NO  
+
+
+
+TOF(0.950306 usec) Vt(124.765 mm/usec) KE_Error(3222.5 eV) 
+
+TOF(0.929566 usec) Vt(121.891 mm/usec) KE_Error(3075.74 eV) 
+
+TOF(0.942283 usec) Vt(123.654 mm/usec) KE_Error(3165.32 eV) 
+
+TOF(0.936813 usec) Vt(122.896 mm/usec) KE_Error(3126.63 eV) 
+
+TOF(0.934886 usec) Vt(122.629 mm/usec) KE_Error(3113.06 eV) 
+
+TOF(0.943779 usec) Vt(123.861 mm/usec) KE_Error(3175.94 eV) 
+
+TOF(2.01783 usec) Vt(123.678 mm/usec) KE_Error(3166.55 eV) 
+
+TOF(0.943333 usec) Vt(123.799 mm/usec) KE_Error(3172.77 eV) 
+
+TOF(0.937989 usec) Vt(123.059 mm/usec) KE_Error(3134.93 eV) 
+
+TOF(0.945001 usec) Vt(124.03 mm/usec) KE_Error(3184.64 eV) 
+
+TOF(0.940951 usec) Vt(123.469 mm/usec) KE_Error(3155.88 eV) 
+
+TOF(0.942802 usec) Vt(123.726 mm/usec) KE_Error(3169.01 eV) 
+
+TOF(0.94916 usec) Vt(124.607 mm/usec) KE_Error(3214.3 eV) 
+
+TOF(2.02023 usec) Vt(122.167 mm/usec) KE_Error(3089.65 eV) 
+
+TOF(0.942956 usec) Vt(123.747 mm/usec) KE_Error(3170.1 eV) 
+
+TOF(2.01953 usec) Vt(122.589 mm/usec) KE_Error(3111.07 eV) 
+
+TOF(0.939118 usec) Vt(123.215 mm/usec) KE_Error(3142.91 eV) 
+
+TOF(0.944748 usec) Vt(123.995 mm/usec) KE_Error(3182.83 eV) 
+
+TOF(2.01917 usec) Vt(122.809 mm/usec) KE_Error(3122.21 eV) 
+
+TOF(0.944611 usec) Vt(123.976 mm/usec) KE_Error(3181.86 eV) 
+
+TOF(0.940581 usec) Vt(123.418 mm/usec) KE_Error(3153.26 eV) 
+
+TOF(2.01931 usec) Vt(122.725 mm/usec) KE_Error(3117.95 eV) 
+
+TOF(0.934003 usec) Vt(122.506 mm/usec) KE_Error(3106.85 eV) 
+
+TOF(0.94283 usec) Vt(123.729 mm/usec) KE_Error(3169.2 eV) 
+
+TOF(0.945016 usec) Vt(124.032 mm/usec) KE_Error(3184.74 eV) 
+
+TOF(0.944704 usec) Vt(123.989 mm/usec) KE_Error(3182.52 eV) 
+
+TOF(0.939492 usec) Vt(123.267 mm/usec) KE_Error(3145.55 eV) 
+
+TOF(0.942854 usec) Vt(123.733 mm/usec) KE_Error(3169.38 eV) 
+
+TOF(0.935562 usec) Vt(122.722 mm/usec) KE_Error(3117.82 eV) 
+
+TOF(0.935195 usec) Vt(122.671 mm/usec) KE_Error(3115.23 eV) 
+
+TOF(0.941549 usec) Vt(123.552 mm/usec) KE_Error(3160.12 eV) 
+
+TOF(2.01712 usec) Vt(124.171 mm/usec) KE_Error(3191.85 eV) 
+
+TOF(0.93781 usec) Vt(123.034 mm/usec) KE_Error(3133.67 eV) 
+
+TOF(0.951484 usec) Vt(124.929 mm/usec) KE_Error(3230.94 eV) 
+
+TOF(0.932268 usec) Vt(122.266 mm/usec) KE_Error(3094.67 eV) 
+
+TOF(0.94102 usec) Vt(123.479 mm/usec) KE_Error(3156.37 eV) 
+
+TOF(2.02053 usec) Vt(121.988 mm/usec) KE_Error(3080.61 eV) 
+
+TOF(0.933421 usec) Vt(122.426 mm/usec) KE_Error(3102.76 eV) 
+
+TOF(2.01675 usec) Vt(124.439 mm/usec) KE_Error(3205.66 eV) 
+
+TOF(0.944634 usec) Vt(123.98 mm/usec) KE_Error(3182.03 eV) 
+
+TOF(2.01692 usec) Vt(124.313 mm/usec) KE_Error(3199.16 eV) 
+
+TOF(0.949312 usec) Vt(124.628 mm/usec) KE_Error(3215.39 eV) 
+
+TOF(0.93774 usec) Vt(123.024 mm/usec) KE_Error(3133.17 eV) 
+
+TOF(0.951206 usec) Vt(124.89 mm/usec) KE_Error(3228.94 eV) 
+
+TOF(0.941468 usec) Vt(123.541 mm/usec) KE_Error(3159.54 eV) 
+
+TOF(2.01927 usec) Vt(122.748 mm/usec) KE_Error(3119.13 eV) 
+
+TOF(0.94142 usec) Vt(123.534 mm/usec) KE_Error(3159.21 eV) 
+
+TOF(0.928431 usec) Vt(121.734 mm/usec) KE_Error(3067.81 eV) 
+
+TOF(0.939425 usec) Vt(123.258 mm/usec) KE_Error(3145.07 eV) 
+
+TOF(0.947824 usec) Vt(124.422 mm/usec) KE_Error(3204.76 eV) 
+
+TOF(0.943465 usec) Vt(123.818 mm/usec) KE_Error(3173.72 eV) 
+
+TOF(0.950027 usec) Vt(124.727 mm/usec) KE_Error(3220.51 eV) 
+
+TOF(0.936904 usec) Vt(122.908 mm/usec) KE_Error(3127.28 eV) 
+
+TOF(0.941169 usec) Vt(123.499 mm/usec) KE_Error(3157.42 eV) 
+
+TOF(0.93257 usec) Vt(122.308 mm/usec) KE_Error(3096.79 eV) 
+
+TOF(0.945339 usec) Vt(124.077 mm/usec) KE_Error(3187.04 eV) 
+
+TOF(0.938877 usec) Vt(123.182 mm/usec) KE_Error(3141.2 eV) 
+
+TOF(0.950983 usec) Vt(124.859 mm/usec) KE_Error(3227.34 eV) 
+
+TOF(0.939693 usec) Vt(123.295 mm/usec) KE_Error(3146.98 eV) 
+
+TOF(0.948709 usec) Vt(124.544 mm/usec) KE_Error(3211.08 eV) 
+
+TOF(0.938448 usec) Vt(123.122 mm/usec) KE_Error(3138.17 eV) 
+
+TOF(0.950794 usec) Vt(124.833 mm/usec) KE_Error(3225.99 eV) 
+
+TOF(0.937969 usec) Vt(123.056 mm/usec) KE_Error(3134.79 eV) 
+
+TOF(2.01784 usec) Vt(123.675 mm/usec) KE_Error(3166.43 eV) 
+
+TOF(0.943282 usec) Vt(123.792 mm/usec) KE_Error(3172.41 eV) 
+
+TOF(0.939352 usec) Vt(123.247 mm/usec) KE_Error(3144.56 eV) 
+
+TOF(0.948869 usec) Vt(124.566 mm/usec) KE_Error(3212.22 eV) 
+
+TOF(2.01706 usec) Vt(124.213 mm/usec) KE_Error(3194.02 eV) 
+
+TOF(0.946361 usec) Vt(124.219 mm/usec) KE_Error(3194.32 eV) 
+
+TOF(0.937551 usec) Vt(122.998 mm/usec) KE_Error(3131.84 eV) 
+
+TOF(0.942797 usec) Vt(123.725 mm/usec) KE_Error(3168.97 eV) 
+
+TOF(0.939259 usec) Vt(123.235 mm/usec) KE_Error(3143.9 eV) 
+
+TOF(0.936014 usec) Vt(122.785 mm/usec) KE_Error(3121 eV) 
+
+TOF(0.928323 usec) Vt(121.719 mm/usec) KE_Error(3067.05 eV) 
+
+TOF(2.01706 usec) Vt(124.21 mm/usec) KE_Error(3193.88 eV) 
+
+TOF(0.943455 usec) Vt(123.816 mm/usec) KE_Error(3173.64 eV) 
+
+TOF(0.939188 usec) Vt(123.225 mm/usec) KE_Error(3143.4 eV) 
+
+TOF(0.932384 usec) Vt(122.282 mm/usec) KE_Error(3095.48 eV) 
+
+TOF(0.943884 usec) Vt(123.876 mm/usec) KE_Error(3176.69 eV) 
+
+TOF(0.943854 usec) Vt(123.871 mm/usec) KE_Error(3176.48 eV) 
+
+TOF(0.942496 usec) Vt(123.683 mm/usec) KE_Error(3166.83 eV) 
+
+TOF(0.945682 usec) Vt(124.125 mm/usec) KE_Error(3189.49 eV) 
+
+TOF(0.930102 usec) Vt(121.966 mm/usec) KE_Error(3079.49 eV) 
+
+TOF(0.943235 usec) Vt(123.786 mm/usec) KE_Error(3172.08 eV) 
+
+TOF(2.01803 usec) Vt(123.543 mm/usec) KE_Error(3159.67 eV) 
+
+TOF(0.938435 usec) Vt(123.12 mm/usec) KE_Error(3138.08 eV) 
+
+TOF(0.93833 usec) Vt(123.106 mm/usec) KE_Error(3137.34 eV) 
+
+TOF(0.941574 usec) Vt(123.555 mm/usec) KE_Error(3160.29 eV) 
+
+TOF(2.01878 usec) Vt(123.053 mm/usec) KE_Error(3134.67 eV) 
+
+TOF(0.950531 usec) Vt(124.797 mm/usec) KE_Error(3224.11 eV) 
+
+TOF(0.945299 usec) Vt(124.072 mm/usec) KE_Error(3186.75 eV) 
+
+TOF(0.942947 usec) Vt(123.746 mm/usec) KE_Error(3170.03 eV) 
+
+TOF(0.931124 usec) Vt(122.107 mm/usec) KE_Error(3086.64 eV) 
+
+TOF(0.941267 usec) Vt(123.513 mm/usec) KE_Error(3158.12 eV) 
+
+TOF(0.934878 usec) Vt(122.628 mm/usec) KE_Error(3113 eV) 
+
+TOF(0.944027 usec) Vt(123.895 mm/usec) KE_Error(3177.71 eV) 
+
+TOF(0.939518 usec) Vt(123.27 mm/usec) KE_Error(3145.73 eV) 
+
+TOF(2.01758 usec) Vt(123.846 mm/usec) KE_Error(3175.19 eV) 
+
+TOF(0.947184 usec) Vt(124.333 mm/usec) KE_Error(3200.19 eV) 
+
+TOF(0.952073 usec) Vt(125.01 mm/usec) KE_Error(3235.16 eV) 
+
+TOF(2.01799 usec) Vt(123.573 mm/usec) KE_Error(3161.19 eV) 
+
+TOF(2.01834 usec) Vt(123.339 mm/usec) KE_Error(3149.24 eV) 
+
+TOF(0.949581 usec) Vt(124.665 mm/usec) KE_Error(3217.31 eV) 
+
+TOF(0.933679 usec) Vt(122.461 mm/usec) KE_Error(3104.57 eV) 
+
+TOF(2.02046 usec) Vt(122.03 mm/usec) KE_Error(3082.72 eV) 
+
+TOF(0.943963 usec) Vt(123.887 mm/usec) KE_Error(3177.26 eV) 
+
+TOF(0.940712 usec) Vt(123.436 mm/usec) KE_Error(3154.18 eV) 
+
+TOF(0.9464 usec) Vt(124.224 mm/usec) KE_Error(3194.6 eV) 
+
+TOF(0.937996 usec) Vt(123.06 mm/usec) KE_Error(3134.98 eV) 
+
+TOF(0.940787 usec) Vt(123.446 mm/usec) KE_Error(3154.72 eV) 
+
+TOF(0.947638 usec) Vt(124.396 mm/usec) KE_Error(3203.43 eV) 
+
+TOF(2.01657 usec) Vt(124.567 mm/usec) KE_Error(3212.25 eV) 
+
+TOF(0.941309 usec) Vt(123.519 mm/usec) KE_Error(3158.41 eV) 
+
+TOF(0.945814 usec) Vt(124.143 mm/usec) KE_Error(3190.42 eV) 
+
+TOF(0.950555 usec) Vt(124.8 mm/usec) KE_Error(3224.28 eV) 
+
+TOF(0.934044 usec) Vt(122.512 mm/usec) KE_Error(3107.14 eV) 
+
+TOF(0.945153 usec) Vt(124.051 mm/usec) KE_Error(3185.71 eV) 
+
+TOF(0.937899 usec) Vt(123.046 mm/usec) KE_Error(3134.3 eV) 
+
+TOF(0.938872 usec) Vt(123.181 mm/usec) KE_Error(3141.17 eV) 
+
+TOF(0.951746 usec) Vt(124.965 mm/usec) KE_Error(3232.82 eV) 
+
+TOF(2.01734 usec) Vt(124.015 mm/usec) KE_Error(3183.82 eV) 
+
+TOF(0.938558 usec) Vt(123.137 mm/usec) KE_Error(3138.95 eV) 
+
+TOF(0.930176 usec) Vt(121.976 mm/usec) KE_Error(3080.01 eV) 
+
+TOF(0.936722 usec) Vt(122.883 mm/usec) KE_Error(3125.99 eV) 
+
+TOF(0.932514 usec) Vt(122.3 mm/usec) KE_Error(3096.39 eV) 
+
+TOF(2.02066 usec) Vt(121.914 mm/usec) KE_Error(3076.89 eV) 
+
+TOF(0.945977 usec) Vt(124.166 mm/usec) KE_Error(3191.59 eV) 
+
+TOF(0.93154 usec) Vt(122.165 mm/usec) KE_Error(3089.56 eV) 
+
+TOF(0.931977 usec) Vt(122.226 mm/usec) KE_Error(3092.63 eV) 
+
+TOF(0.94362 usec) Vt(123.839 mm/usec) KE_Error(3174.82 eV) 
+
+TOF(0.939869 usec) Vt(123.319 mm/usec) KE_Error(3148.22 eV) 
+
+TOF(2.01783 usec) Vt(123.678 mm/usec) KE_Error(3166.59 eV) 
+
+TOF(0.929606 usec) Vt(121.897 mm/usec) KE_Error(3076.02 eV) 
+
+TOF(2.01746 usec) Vt(123.933 mm/usec) KE_Error(3179.65 eV) 
+
+TOF(2.01923 usec) Vt(122.773 mm/usec) KE_Error(3120.38 eV) 
+
+TOF(0.945398 usec) Vt(124.085 mm/usec) KE_Error(3187.46 eV) 
+
+TOF(2.01854 usec) Vt(123.209 mm/usec) KE_Error(3142.61 eV) 
+
+TOF(0.940586 usec) Vt(123.418 mm/usec) KE_Error(3153.29 eV) 
+
+TOF(2.01778 usec) Vt(123.71 mm/usec) KE_Error(3168.23 eV) 
+
+TOF(0.950477 usec) Vt(124.789 mm/usec) KE_Error(3223.73 eV) 
+
+TOF(0.935435 usec) Vt(122.705 mm/usec) KE_Error(3116.92 eV) 
+
+TOF(2.01972 usec) Vt(122.473 mm/usec) KE_Error(3105.18 eV) 
+
+TOF(2.0191 usec) Vt(122.855 mm/usec) KE_Error(3124.59 eV) 
+
+TOF(2.01592 usec) Vt(125.064 mm/usec) KE_Error(3237.95 eV) 
+
+TOF(0.934298 usec) Vt(122.547 mm/usec) KE_Error(3108.92 eV) 
+
+TOF(0.950412 usec) Vt(124.78 mm/usec) KE_Error(3223.26 eV) 
+
+TOF(0.951485 usec) Vt(124.929 mm/usec) KE_Error(3230.94 eV) 
+
+TOF(2.01842 usec) Vt(123.289 mm/usec) KE_Error(3146.68 eV) 
+
+TOF(0.942115 usec) Vt(123.63 mm/usec) KE_Error(3164.13 eV) 
+
+TOF(0.938636 usec) Vt(123.148 mm/usec) KE_Error(3139.5 eV) 
+
+TOF(0.936209 usec) Vt(122.812 mm/usec) KE_Error(3122.38 eV) 
+
+TOF(0.946879 usec) Vt(124.291 mm/usec) KE_Error(3198.02 eV) 
+
+TOF(0.934304 usec) Vt(122.548 mm/usec) KE_Error(3108.96 eV) 
+
+TOF(0.94775 usec) Vt(124.411 mm/usec) KE_Error(3204.23 eV) 
+
+TOF(2.01889 usec) Vt(122.982 mm/usec) KE_Error(3131.04 eV) 
+
+TOF(0.944376 usec) Vt(123.944 mm/usec) KE_Error(3180.19 eV) 
+
+TOF(0.945333 usec) Vt(124.076 mm/usec) KE_Error(3187 eV) 
+
+TOF(0.939471 usec) Vt(123.264 mm/usec) KE_Error(3145.41 eV) 
+
+TOF(2.02055 usec) Vt(121.982 mm/usec) KE_Error(3080.3 eV) 
+
+TOF(2.01828 usec) Vt(123.38 mm/usec) KE_Error(3151.33 eV) 
+
+TOF(0.94116 usec) Vt(123.498 mm/usec) KE_Error(3157.36 eV) 
+
+TOF(0.94725 usec) Vt(124.342 mm/usec) KE_Error(3200.66 eV) 
+
+TOF(0.949045 usec) Vt(124.591 mm/usec) KE_Error(3213.48 eV) 
+
+TOF(0.94204 usec) Vt(123.62 mm/usec) KE_Error(3163.6 eV) 
+
+TOF(0.939194 usec) Vt(123.226 mm/usec) KE_Error(3143.44 eV) 
+
+TOF(2.0174 usec) Vt(123.975 mm/usec) KE_Error(3181.81 eV) 
+
+TOF(0.946263 usec) Vt(124.205 mm/usec) KE_Error(3193.62 eV) 
+
+TOF(0.937963 usec) Vt(123.055 mm/usec) KE_Error(3134.75 eV) 
+
+TOF(2.01952 usec) Vt(122.594 mm/usec) KE_Error(3111.28 eV) 
+
+TOF(0.934849 usec) Vt(122.623 mm/usec) KE_Error(3112.8 eV) 
+
+TOF(0.938803 usec) Vt(123.171 mm/usec) KE_Error(3140.68 eV) 
+
+TOF(2.01707 usec) Vt(124.208 mm/usec) KE_Error(3193.79 eV) 
+
+TOF(2.01721 usec) Vt(124.107 mm/usec) KE_Error(3188.59 eV) 
+
+TOF(0.93724 usec) Vt(122.955 mm/usec) KE_Error(3129.64 eV) 
+
+TOF(2.01832 usec) Vt(123.354 mm/usec) KE_Error(3150.01 eV) 
+
+TOF(0.931336 usec) Vt(122.137 mm/usec) KE_Error(3088.13 eV) 
+
+TOF(0.938835 usec) Vt(123.176 mm/usec) KE_Error(3140.9 eV) 
+
+TOF(2.01659 usec) Vt(124.556 mm/usec) KE_Error(3211.67 eV) 
+
+TOF(2.0173 usec) Vt(124.04 mm/usec) KE_Error(3185.16 eV) 
+
+TOF(0.943809 usec) Vt(123.865 mm/usec) KE_Error(3176.16 eV) 
+
+TOF(0.934702 usec) Vt(122.603 mm/usec) KE_Error(3111.76 eV) 
+
+TOF(0.932471 usec) Vt(122.294 mm/usec) KE_Error(3096.09 eV) 
+
+TOF(2.01711 usec) Vt(124.175 mm/usec) KE_Error(3192.06 eV) 
+
+TOF(0.939603 usec) Vt(123.282 mm/usec) KE_Error(3146.34 eV) 
+
+TOF(0.930084 usec) Vt(121.963 mm/usec) KE_Error(3079.36 eV) 
+
+TOF(0.945004 usec) Vt(124.031 mm/usec) KE_Error(3184.66 eV) 
+
+TOF(2.0191 usec) Vt(122.855 mm/usec) KE_Error(3124.56 eV) 
+
+TOF(0.935792 usec) Vt(122.754 mm/usec) KE_Error(3119.43 eV) 
+
+TOF(0.9303 usec) Vt(121.993 mm/usec) KE_Error(3080.88 eV) 
+
+TOF(0.935049 usec) Vt(122.651 mm/usec) KE_Error(3114.21 eV) 
+
+TOF(0.937344 usec) Vt(122.969 mm/usec) KE_Error(3130.38 eV) 
+
+TOF(0.932432 usec) Vt(122.289 mm/usec) KE_Error(3095.82 eV) 
+
+TOF(0.9351 usec) Vt(122.658 mm/usec) KE_Error(3114.56 eV) 
+
+TOF(0.929658 usec) Vt(121.904 mm/usec) KE_Error(3076.38 eV) 
+
+TOF(0.93626 usec) Vt(122.819 mm/usec) KE_Error(3122.73 eV) 
+
+TOF(0.941868 usec) Vt(123.596 mm/usec) KE_Error(3162.38 eV) 
+
+TOF(0.930989 usec) Vt(122.089 mm/usec) KE_Error(3085.7 eV) 
+
+TOF(0.938581 usec) Vt(123.141 mm/usec) KE_Error(3139.11 eV) 
+
+TOF(2.01733 usec) Vt(124.02 mm/usec) KE_Error(3184.1 eV) 
+
+TOF(0.943438 usec) Vt(123.814 mm/usec) KE_Error(3173.52 eV) 
+------ Begin Next Fly'm ------
+Running custom Workbench.lua
+
+
+ Begin Fly'm (Wed Jan  8 01:44:00 2025) 
+ Ions Flown Separately, Comp Quality(3) 
+ Number of Ions to Fly = 200 
+ Changes: Mass, Charge,   X,   Y,   Z,  KE,  Azm, Elv, Time of Birth 
+           NO     NO     YES  YES  YES  NO   NO   NO       NO  
+
+
+
+TOF(2.01665 usec) Vt(124.508 mm/usec) KE_Error(3209.22 eV) 
+
+TOF(0.942336 usec) Vt(123.661 mm/usec) KE_Error(3165.7 eV) 
+
+TOF(0.941181 usec) Vt(123.501 mm/usec) KE_Error(3157.51 eV) 
+
+TOF(0.939214 usec) Vt(123.228 mm/usec) KE_Error(3143.59 eV) 
+
+TOF(0.949624 usec) Vt(124.671 mm/usec) KE_Error(3217.62 eV) 
+
+TOF(0.933063 usec) Vt(122.376 mm/usec) KE_Error(3100.24 eV) 
+
+TOF(0.936161 usec) Vt(122.805 mm/usec) KE_Error(3122.04 eV) 
+
+TOF(0.941543 usec) Vt(123.551 mm/usec) KE_Error(3160.07 eV) 
+
+TOF(0.944133 usec) Vt(123.91 mm/usec) KE_Error(3178.46 eV) 
+
+TOF(0.937281 usec) Vt(122.961 mm/usec) KE_Error(3129.94 eV) 
+
+TOF(0.945299 usec) Vt(124.072 mm/usec) KE_Error(3186.76 eV) 
+
+TOF(0.936726 usec) Vt(122.884 mm/usec) KE_Error(3126.02 eV) 
+
+TOF(0.935822 usec) Vt(122.758 mm/usec) KE_Error(3119.65 eV) 
+
+TOF(0.938421 usec) Vt(123.119 mm/usec) KE_Error(3137.98 eV) 
+
+TOF(0.937985 usec) Vt(123.058 mm/usec) KE_Error(3134.9 eV) 
+
+TOF(0.947371 usec) Vt(124.359 mm/usec) KE_Error(3201.53 eV) 
+
+TOF(0.936056 usec) Vt(122.791 mm/usec) KE_Error(3121.3 eV) 
+
+TOF(0.944023 usec) Vt(123.895 mm/usec) KE_Error(3177.68 eV) 
+
+TOF(0.949421 usec) Vt(124.643 mm/usec) KE_Error(3216.17 eV) 
+
+TOF(2.02014 usec) Vt(122.222 mm/usec) KE_Error(3092.44 eV) 
+
+TOF(0.936486 usec) Vt(122.85 mm/usec) KE_Error(3124.33 eV) 
+
+TOF(2.02074 usec) Vt(121.871 mm/usec) KE_Error(3074.72 eV) 
+
+TOF(0.936054 usec) Vt(122.79 mm/usec) KE_Error(3121.28 eV) 
+
+TOF(0.93002 usec) Vt(121.954 mm/usec) KE_Error(3078.92 eV) 
+
+TOF(0.938648 usec) Vt(123.15 mm/usec) KE_Error(3139.59 eV) 
+
+TOF(0.942068 usec) Vt(123.624 mm/usec) KE_Error(3163.8 eV) 
+
+TOF(0.943472 usec) Vt(123.818 mm/usec) KE_Error(3173.76 eV) 
+
+TOF(0.93006 usec) Vt(121.96 mm/usec) KE_Error(3079.19 eV) 
+
+TOF(0.939325 usec) Vt(123.244 mm/usec) KE_Error(3144.37 eV) 
+
+TOF(0.944605 usec) Vt(123.975 mm/usec) KE_Error(3181.82 eV) 
+
+TOF(0.943791 usec) Vt(123.863 mm/usec) KE_Error(3176.03 eV) 
+
+TOF(2.01889 usec) Vt(122.987 mm/usec) KE_Error(3131.28 eV) 
+
+TOF(0.931941 usec) Vt(122.221 mm/usec) KE_Error(3092.37 eV) 
+
+TOF(0.942204 usec) Vt(123.643 mm/usec) KE_Error(3164.76 eV) 
+
+TOF(0.949543 usec) Vt(124.66 mm/usec) KE_Error(3217.04 eV) 
+
+TOF(2.01863 usec) Vt(123.152 mm/usec) KE_Error(3139.67 eV) 
+
+TOF(0.941963 usec) Vt(123.609 mm/usec) KE_Error(3163.05 eV) 
+
+TOF(2.01679 usec) Vt(124.407 mm/usec) KE_Error(3204.03 eV) 
+
+TOF(0.931753 usec) Vt(122.194 mm/usec) KE_Error(3091.06 eV) 
+
+TOF(0.934654 usec) Vt(122.596 mm/usec) KE_Error(3111.43 eV) 
+
+TOF(0.946107 usec) Vt(124.184 mm/usec) KE_Error(3192.51 eV) 
+
+TOF(0.948837 usec) Vt(124.562 mm/usec) KE_Error(3211.99 eV) 
+
+TOF(0.950726 usec) Vt(124.824 mm/usec) KE_Error(3225.51 eV) 
+
+TOF(2.0186 usec) Vt(123.167 mm/usec) KE_Error(3140.48 eV) 
+
+TOF(0.951881 usec) Vt(124.984 mm/usec) KE_Error(3233.78 eV) 
+
+TOF(0.951711 usec) Vt(124.96 mm/usec) KE_Error(3232.57 eV) 
+
+TOF(0.941231 usec) Vt(123.508 mm/usec) KE_Error(3157.87 eV) 
+
+TOF(0.947795 usec) Vt(124.417 mm/usec) KE_Error(3204.55 eV) 
+
+TOF(0.933686 usec) Vt(122.462 mm/usec) KE_Error(3104.62 eV) 
+
+TOF(0.950105 usec) Vt(124.738 mm/usec) KE_Error(3221.06 eV) 
+
+TOF(0.939124 usec) Vt(123.216 mm/usec) KE_Error(3142.95 eV) 
+
+TOF(0.938877 usec) Vt(123.182 mm/usec) KE_Error(3141.2 eV) 
+
+TOF(0.951311 usec) Vt(124.905 mm/usec) KE_Error(3229.7 eV) 
+
+TOF(2.02015 usec) Vt(122.211 mm/usec) KE_Error(3091.88 eV) 
+
+TOF(0.94508 usec) Vt(124.041 mm/usec) KE_Error(3185.2 eV) 
+
+TOF(0.944486 usec) Vt(123.959 mm/usec) KE_Error(3180.97 eV) 
+
+TOF(0.934359 usec) Vt(122.556 mm/usec) KE_Error(3109.35 eV) 
+
+TOF(0.941777 usec) Vt(123.584 mm/usec) KE_Error(3161.73 eV) 
+
+TOF(0.941186 usec) Vt(123.502 mm/usec) KE_Error(3157.55 eV) 
+
+TOF(0.935224 usec) Vt(122.676 mm/usec) KE_Error(3115.44 eV) 
+
+TOF(0.939053 usec) Vt(123.206 mm/usec) KE_Error(3142.45 eV) 
+
+TOF(0.93151 usec) Vt(122.161 mm/usec) KE_Error(3089.35 eV) 
+
+TOF(0.933308 usec) Vt(122.41 mm/usec) KE_Error(3101.97 eV) 
+
+TOF(0.943984 usec) Vt(123.889 mm/usec) KE_Error(3177.4 eV) 
+
+TOF(0.949366 usec) Vt(124.635 mm/usec) KE_Error(3215.77 eV) 
+
+TOF(2.01647 usec) Vt(124.644 mm/usec) KE_Error(3216.24 eV) 
+
+TOF(2.01831 usec) Vt(123.359 mm/usec) KE_Error(3150.24 eV) 
+
+TOF(2.01604 usec) Vt(124.964 mm/usec) KE_Error(3232.77 eV) 
+
+TOF(2.01681 usec) Vt(124.393 mm/usec) KE_Error(3203.28 eV) 
+
+TOF(0.931764 usec) Vt(122.196 mm/usec) KE_Error(3091.14 eV) 
+
+TOF(2.01609 usec) Vt(124.929 mm/usec) KE_Error(3230.97 eV) 
+
+TOF(0.945062 usec) Vt(124.039 mm/usec) KE_Error(3185.07 eV) 
+
+TOF(2.01748 usec) Vt(123.919 mm/usec) KE_Error(3178.94 eV) 
+
+TOF(0.946497 usec) Vt(124.238 mm/usec) KE_Error(3195.29 eV) 
+
+TOF(0.940479 usec) Vt(123.404 mm/usec) KE_Error(3152.54 eV) 
+
+TOF(0.935314 usec) Vt(122.688 mm/usec) KE_Error(3116.07 eV) 
+
+TOF(0.946889 usec) Vt(124.292 mm/usec) KE_Error(3198.08 eV) 
+
+TOF(0.938878 usec) Vt(123.182 mm/usec) KE_Error(3141.21 eV) 
+
+TOF(0.943081 usec) Vt(123.764 mm/usec) KE_Error(3170.98 eV) 
+
+TOF(0.950488 usec) Vt(124.791 mm/usec) KE_Error(3223.8 eV) 
+
+TOF(0.949944 usec) Vt(124.715 mm/usec) KE_Error(3219.91 eV) 
+
+TOF(0.936784 usec) Vt(122.892 mm/usec) KE_Error(3126.43 eV) 
+
+TOF(0.947208 usec) Vt(124.336 mm/usec) KE_Error(3200.36 eV) 
+
+TOF(2.02001 usec) Vt(122.297 mm/usec) KE_Error(3096.26 eV) 
+
+TOF(0.948734 usec) Vt(124.548 mm/usec) KE_Error(3211.25 eV) 
+
+TOF(0.941884 usec) Vt(123.598 mm/usec) KE_Error(3162.49 eV) 
+
+TOF(0.949737 usec) Vt(124.687 mm/usec) KE_Error(3218.42 eV) 
+
+TOF(0.93739 usec) Vt(122.976 mm/usec) KE_Error(3130.7 eV) 
+
+TOF(0.931869 usec) Vt(122.21 mm/usec) KE_Error(3091.87 eV) 
+
+TOF(0.941654 usec) Vt(123.567 mm/usec) KE_Error(3160.86 eV) 
+
+TOF(0.934536 usec) Vt(122.58 mm/usec) KE_Error(3110.6 eV) 
+
+TOF(2.01969 usec) Vt(122.489 mm/usec) KE_Error(3105.97 eV) 
+
+TOF(2.01786 usec) Vt(123.656 mm/usec) KE_Error(3165.46 eV) 
+
+TOF(0.947912 usec) Vt(124.434 mm/usec) KE_Error(3205.38 eV) 
+
+TOF(0.939165 usec) Vt(123.222 mm/usec) KE_Error(3143.24 eV) 
+
+TOF(2.01798 usec) Vt(123.576 mm/usec) KE_Error(3161.36 eV) 
+
+TOF(0.942421 usec) Vt(123.673 mm/usec) KE_Error(3166.3 eV) 
+
+TOF(0.946879 usec) Vt(124.291 mm/usec) KE_Error(3198.02 eV) 
+
+TOF(0.947373 usec) Vt(124.359 mm/usec) KE_Error(3201.54 eV) 
+
+TOF(0.939164 usec) Vt(123.221 mm/usec) KE_Error(3143.23 eV) 
+
+TOF(0.939867 usec) Vt(123.319 mm/usec) KE_Error(3148.21 eV) 
+
+TOF(0.93018 usec) Vt(121.976 mm/usec) KE_Error(3080.04 eV) 
+
+TOF(0.941038 usec) Vt(123.481 mm/usec) KE_Error(3156.5 eV) 
+
+TOF(0.933863 usec) Vt(122.487 mm/usec) KE_Error(3105.87 eV) 
+
+TOF(0.93322 usec) Vt(122.398 mm/usec) KE_Error(3101.35 eV) 
+
+TOF(2.01613 usec) Vt(124.899 mm/usec) KE_Error(3229.39 eV) 
+
+TOF(0.929658 usec) Vt(121.904 mm/usec) KE_Error(3076.38 eV) 
+
+TOF(0.933858 usec) Vt(122.486 mm/usec) KE_Error(3105.83 eV) 
+
+TOF(0.930882 usec) Vt(122.074 mm/usec) KE_Error(3084.95 eV) 
+
+TOF(0.94541 usec) Vt(124.087 mm/usec) KE_Error(3187.55 eV) 
+
+TOF(0.934498 usec) Vt(122.575 mm/usec) KE_Error(3110.33 eV) 
+
+TOF(0.942355 usec) Vt(123.664 mm/usec) KE_Error(3165.84 eV) 
+
+TOF(0.932566 usec) Vt(122.307 mm/usec) KE_Error(3096.76 eV) 
+
+TOF(0.934325 usec) Vt(122.551 mm/usec) KE_Error(3109.12 eV) 
+
+TOF(0.951106 usec) Vt(124.876 mm/usec) KE_Error(3228.23 eV) 
+
+TOF(0.932825 usec) Vt(122.343 mm/usec) KE_Error(3098.57 eV) 
+
+TOF(2.01768 usec) Vt(123.783 mm/usec) KE_Error(3171.96 eV) 
+
+TOF(0.929695 usec) Vt(121.909 mm/usec) KE_Error(3076.64 eV) 
+
+TOF(0.948053 usec) Vt(124.453 mm/usec) KE_Error(3206.39 eV) 
+
+TOF(0.939018 usec) Vt(123.201 mm/usec) KE_Error(3142.2 eV) 
+
+TOF(0.943745 usec) Vt(123.856 mm/usec) KE_Error(3175.7 eV) 
+
+TOF(0.939101 usec) Vt(123.213 mm/usec) KE_Error(3142.79 eV) 
+
+TOF(0.938681 usec) Vt(123.155 mm/usec) KE_Error(3139.82 eV) 
+
+TOF(0.94884 usec) Vt(124.562 mm/usec) KE_Error(3212.01 eV) 
+
+TOF(0.951527 usec) Vt(124.935 mm/usec) KE_Error(3231.25 eV) 
+
+TOF(0.945081 usec) Vt(124.041 mm/usec) KE_Error(3185.2 eV) 
+
+TOF(0.94076 usec) Vt(123.443 mm/usec) KE_Error(3154.53 eV) 
+
+TOF(0.929898 usec) Vt(121.937 mm/usec) KE_Error(3078.07 eV) 
+
+TOF(0.944242 usec) Vt(123.925 mm/usec) KE_Error(3179.24 eV) 
+
+TOF(2.02088 usec) Vt(121.788 mm/usec) KE_Error(3070.51 eV) 
+
+TOF(0.940552 usec) Vt(123.414 mm/usec) KE_Error(3153.05 eV) 
+
+TOF(0.949063 usec) Vt(124.593 mm/usec) KE_Error(3213.61 eV) 
+
+TOF(0.949911 usec) Vt(124.711 mm/usec) KE_Error(3219.68 eV) 
+
+TOF(0.938596 usec) Vt(123.143 mm/usec) KE_Error(3139.22 eV) 
+
+TOF(2.01763 usec) Vt(123.817 mm/usec) KE_Error(3173.68 eV) 
+
+TOF(2.01836 usec) Vt(123.329 mm/usec) KE_Error(3148.73 eV) 
+
+TOF(0.948392 usec) Vt(124.5 mm/usec) KE_Error(3208.81 eV) 
+
+TOF(0.930517 usec) Vt(122.023 mm/usec) KE_Error(3082.39 eV) 
+
+TOF(0.940643 usec) Vt(123.426 mm/usec) KE_Error(3153.7 eV) 
+
+TOF(2.01902 usec) Vt(122.904 mm/usec) KE_Error(3127.08 eV) 
+
+TOF(0.937873 usec) Vt(123.043 mm/usec) KE_Error(3134.11 eV) 
+
+TOF(0.941273 usec) Vt(123.514 mm/usec) KE_Error(3158.16 eV) 
+
+TOF(0.935216 usec) Vt(122.674 mm/usec) KE_Error(3115.38 eV) 
+
+TOF(0.93592 usec) Vt(122.772 mm/usec) KE_Error(3120.34 eV) 
+
+TOF(0.938679 usec) Vt(123.154 mm/usec) KE_Error(3139.81 eV) 
+
+TOF(0.949639 usec) Vt(124.673 mm/usec) KE_Error(3217.73 eV) 
+
+TOF(0.932815 usec) Vt(122.342 mm/usec) KE_Error(3098.51 eV) 
+
+TOF(0.94573 usec) Vt(124.131 mm/usec) KE_Error(3189.83 eV) 
+
+TOF(0.939354 usec) Vt(123.248 mm/usec) KE_Error(3144.58 eV) 
+
+TOF(0.936454 usec) Vt(122.846 mm/usec) KE_Error(3124.1 eV) 
+
+TOF(0.946352 usec) Vt(124.218 mm/usec) KE_Error(3194.25 eV) 
+
+TOF(0.939147 usec) Vt(123.219 mm/usec) KE_Error(3143.11 eV) 
+
+TOF(2.01831 usec) Vt(123.362 mm/usec) KE_Error(3150.41 eV) 
+
+TOF(0.934785 usec) Vt(122.615 mm/usec) KE_Error(3112.35 eV) 
+
+TOF(0.932336 usec) Vt(122.275 mm/usec) KE_Error(3095.14 eV) 
+
+TOF(0.944673 usec) Vt(123.985 mm/usec) KE_Error(3182.3 eV) 
+
+TOF(0.937362 usec) Vt(122.972 mm/usec) KE_Error(3130.51 eV) 
+
+TOF(2.01825 usec) Vt(123.397 mm/usec) KE_Error(3152.2 eV) 
+
+TOF(0.930852 usec) Vt(122.07 mm/usec) KE_Error(3084.74 eV) 
+
+TOF(0.945518 usec) Vt(124.102 mm/usec) KE_Error(3188.31 eV) 
+
+TOF(0.939358 usec) Vt(123.248 mm/usec) KE_Error(3144.61 eV) 
+
+TOF(2.01766 usec) Vt(123.798 mm/usec) KE_Error(3172.69 eV) 
+
+TOF(0.943403 usec) Vt(123.809 mm/usec) KE_Error(3173.27 eV) 
+
+TOF(2.01731 usec) Vt(124.04 mm/usec) KE_Error(3185.12 eV) 
+
+TOF(2.01662 usec) Vt(124.528 mm/usec) KE_Error(3210.25 eV) 
+
+TOF(0.943967 usec) Vt(123.887 mm/usec) KE_Error(3177.28 eV) 
+
+TOF(0.942166 usec) Vt(123.637 mm/usec) KE_Error(3164.49 eV) 
+
+TOF(0.951372 usec) Vt(124.913 mm/usec) KE_Error(3230.13 eV) 
+
+TOF(2.02079 usec) Vt(121.84 mm/usec) KE_Error(3073.15 eV) 
+
+TOF(2.01834 usec) Vt(123.343 mm/usec) KE_Error(3149.41 eV) 
+
+TOF(0.94047 usec) Vt(123.402 mm/usec) KE_Error(3152.47 eV) 
+
+TOF(0.939961 usec) Vt(123.332 mm/usec) KE_Error(3148.87 eV) 
+
+TOF(0.945733 usec) Vt(124.132 mm/usec) KE_Error(3189.85 eV) 
+
+TOF(2.01779 usec) Vt(123.704 mm/usec) KE_Error(3167.89 eV) 
+
+TOF(2.01653 usec) Vt(124.597 mm/usec) KE_Error(3213.81 eV) 
+
+TOF(0.947169 usec) Vt(124.331 mm/usec) KE_Error(3200.08 eV) 
+
+TOF(2.02022 usec) Vt(122.175 mm/usec) KE_Error(3090.06 eV) 
+
+TOF(0.933124 usec) Vt(122.384 mm/usec) KE_Error(3100.68 eV) 
+
+TOF(0.935552 usec) Vt(122.721 mm/usec) KE_Error(3117.75 eV) 
+
+TOF(0.94104 usec) Vt(123.481 mm/usec) KE_Error(3156.51 eV) 
+
+TOF(2.0182 usec) Vt(123.431 mm/usec) KE_Error(3153.91 eV) 
+
+TOF(2.01843 usec) Vt(123.28 mm/usec) KE_Error(3146.21 eV) 
+
+TOF(0.945716 usec) Vt(124.129 mm/usec) KE_Error(3189.73 eV) 
+
+TOF(0.944052 usec) Vt(123.899 mm/usec) KE_Error(3177.89 eV) 
+
+TOF(0.94457 usec) Vt(123.971 mm/usec) KE_Error(3181.57 eV) 
+
+TOF(0.941002 usec) Vt(123.476 mm/usec) KE_Error(3156.24 eV) 
+
+TOF(2.01639 usec) Vt(124.705 mm/usec) KE_Error(3219.37 eV) 
+
+TOF(0.932095 usec) Vt(122.242 mm/usec) KE_Error(3093.45 eV) 
+
+TOF(0.936969 usec) Vt(122.917 mm/usec) KE_Error(3127.73 eV) 
+
+TOF(0.939383 usec) Vt(123.252 mm/usec) KE_Error(3144.78 eV) 
+
+TOF(0.940793 usec) Vt(123.447 mm/usec) KE_Error(3154.76 eV) 
+
+TOF(0.942216 usec) Vt(123.644 mm/usec) KE_Error(3164.85 eV) 
+
+TOF(0.947547 usec) Vt(124.383 mm/usec) KE_Error(3202.78 eV) 
+
+TOF(0.945845 usec) Vt(124.147 mm/usec) KE_Error(3190.64 eV) 
+
+TOF(0.942115 usec) Vt(123.63 mm/usec) KE_Error(3164.13 eV) 
+
+TOF(0.944149 usec) Vt(123.912 mm/usec) KE_Error(3178.57 eV) 
+
+TOF(0.938365 usec) Vt(123.111 mm/usec) KE_Error(3137.59 eV) 
+
+TOF(0.946711 usec) Vt(124.267 mm/usec) KE_Error(3196.82 eV) 
+
+TOF(0.931026 usec) Vt(122.094 mm/usec) KE_Error(3085.96 eV) 
+
+TOF(0.939759 usec) Vt(123.304 mm/usec) KE_Error(3147.44 eV) 
 

@@ -7,9 +7,12 @@ particles {
     charge = 1,
     cwf = 1,
     color = 2,
-    position = line_distribution {
-      first = vector(11, -49, 0),
-      last = vector(11, 49, 0)
+    position = cylinder_distribution {
+      center = vector(11, 0, 0),
+      axis = vector(0, 1, 0),
+      radius = 1.5,
+      length = 98,
+      fill = true
     },
     velocity = vector(0, 0, 0)
   }
