@@ -7,10 +7,10 @@ function IonType (name, mass, charge, fraction)
     }
 end
 
-local spawnregion_length = 24 -- mm
+local spawnregion_length = 20 -- mm
 local ion_types = {
-    IonType('Ar+', 39.948, 1, 1),
-    IonType('Ar2+', 39.948, 2, 1)
+    IonType('Ar+', 39.948, 1, 2.64),
+    IonType('Ar2+', 39.948, 2, 1.89)
 }
 local amount_multiplier = 2000
 local beam_center = 11 -- mm

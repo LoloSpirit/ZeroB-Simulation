@@ -9,6 +9,7 @@ local pulse_duration = 4.5 -- microseconds
 local current_voltage = 0
 
 function segment.flym()
+    ion_run = ion_run +1
     run()
 end
 
