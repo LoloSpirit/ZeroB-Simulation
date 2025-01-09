@@ -5,15 +5,20 @@ particles {
     tob = 0,
     mass = 39.948,
     charge = 1,
+    ke = 0.025,
     cwf = 1,
     color = 2,
+    direction = cone_direction_distribution {
+      axis = vector(1, 0, 0),
+      half_angle = 0,
+      fill = false
+    },
     position = cylinder_distribution {
       center = vector(11, 0, 0),
       axis = vector(0, 1, 0),
       radius = 1.5,
       length = 98,
       fill = true
-    },
-    velocity = vector(0, 0, 0)
+    }
   }
 }

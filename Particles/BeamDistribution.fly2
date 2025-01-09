@@ -1,0 +1,65 @@
+function IonType (name, mass, charge, fraction)
+    return {
+        name = name,
+        mass = mass,
+        charge = charge,
+        fraction = fraction
+    }
+end
+
+local spawnregion_length = 30
+local ion_types = {
+    IonType('Ar+', 39.948, 1, 1),
+}
+local amount_multiplier = 15
+local beam_center = 11
+local max_beam_width = 5 -- mm
+local ion_kinetic_energy = 1/40
+
+-- Beam profile parameters from fitted data
+local a = 111.97
+local b = 0.73
+
+function BeamProfile (x)
+    return a * math.exp(-b * x^2)
+end
+
+function GetGaussianBeamOffset ()
+    -- use rejection sampling
+    while true do
+        local x = math.random() * max_beam_width - max_beam_width / 2
+        local u = math.random() * a
+        if u < BeamProfile(x) then
+            return x
+        end
+    end
+end
+
+-- build the particle table one by one
+local t = {coordinates = 0}
+
+for k, ion_type in ipairs(ion_types) do
+    for i=1, spawnregion_length do
+        for j=1, amount_multiplier*ion_type.fraction do
+            random_angle = math.random() * 2 * math.pi
+            random_direction = vector(math.cos(random_angle), math.sin(random_angle), 0)
+            random_beam_offset = GetGaussianBeamOffset()
+
+            t[#t+1] = standard_beam {
+                n = 1,
+                tob = 0,
+                mass = ion_type.mass,
+                charge = ion_type.charge,
+                x = beam_center + random_beam_offset,
+                y = i - spawnregion_length / 2,
+                z = 0,
+                ke = ion_kinetic_energy,
+                color = k,
+                direction = random_direction,
+                cwf = 1
+            }
+        end
+    end
+end
+
+particles(t)

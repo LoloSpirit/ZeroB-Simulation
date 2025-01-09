@@ -1230,4 +1230,1976 @@ TOF(0.946711 usec) Vt(124.267 mm/usec) KE_Error(3196.82 eV)
 TOF(0.931026 usec) Vt(122.094 mm/usec) KE_Error(3085.96 eV) 
 
 TOF(0.939759 usec) Vt(123.304 mm/usec) KE_Error(3147.44 eV) 
+------ Begin Next Fly'm ------
+Running custom Workbench.lua
+
+
+ Begin Fly'm (Thu Jan  9 13:55:29 2025) 
+ Ions Flown Separately, Comp Quality(3) 
+ Number of Ions to Fly = 525 
+ Changes: Mass, Charge,   X,   Y,   Z,  KE,  Azm, Elv, Time of Birth 
+           NO     NO     YES  YES  NO   NO   YES  YES      NO  
+
+
+
+TOF(0.941268 usec) Vt(123.85 mm/usec) KE(3175.39 eV) 
+
+TOF(0.932147 usec) Vt(122.588 mm/usec) KE(3110.99 eV) 
+
+TOF(0.940301 usec) Vt(123.536 mm/usec) KE(3159.31 eV) 
+
+TOF(0.95201 usec) Vt(124.999 mm/usec) KE(3234.55 eV) 
+
+TOF(0.941585 usec) Vt(123.872 mm/usec) KE(3176.53 eV) 
+
+TOF(0.946673 usec) Vt(124.461 mm/usec) KE(3206.81 eV) 
+
+TOF(0.9501 usec) Vt(124.84 mm/usec) KE(3226.33 eV) 
+
+TOF(0.947939 usec) Vt(124.491 mm/usec) KE(3208.31 eV) 
+
+TOF(0.947208 usec) Vt(124.067 mm/usec) KE(3186.54 eV) 
+
+TOF(0.939026 usec) Vt(123.048 mm/usec) KE(3134.38 eV) 
+
+TOF(0.931913 usec) Vt(121.886 mm/usec) KE(3075.45 eV) 
+
+TOF(0.93036 usec) Vt(122.229 mm/usec) KE(3092.8 eV) 
+
+TOF(0.932573 usec) Vt(122.645 mm/usec) KE(3113.91 eV) 
+
+TOF(0.949042 usec) Vt(124.537 mm/usec) KE(3210.71 eV) 
+
+TOF(0.934621 usec) Vt(122.694 mm/usec) KE(3116.36 eV) 
+
+TOF(0.95037 usec) Vt(124.591 mm/usec) KE(3213.47 eV) 
+
+TOF(0.948273 usec) Vt(124.611 mm/usec) KE(3214.54 eV) 
+
+TOF(0.943525 usec) Vt(123.483 mm/usec) KE(3156.6 eV) 
+
+TOF(0.955135 usec) Vt(125.7 mm/usec) KE(3270.97 eV) 
+
+TOF(0.935112 usec) Vt(122.547 mm/usec) KE(3108.93 eV) 
+
+TOF(0.946489 usec) Vt(123.911 mm/usec) KE(3178.49 eV) 
+
+TOF(0.925631 usec) Vt(121.615 mm/usec) KE(3061.78 eV) 
+
+TOF(0.942514 usec) Vt(123.392 mm/usec) KE(3151.93 eV) 
+
+TOF(0.947131 usec) Vt(124.283 mm/usec) KE(3197.64 eV) 
+
+TOF(0.947289 usec) Vt(124 mm/usec) KE(3183.07 eV) 
+
+TOF(0.944464 usec) Vt(124.201 mm/usec) KE(3193.43 eV) 
+
+TOF(0.933382 usec) Vt(122.414 mm/usec) KE(3102.15 eV) 
+
+TOF(0.946166 usec) Vt(123.96 mm/usec) KE(3181.04 eV) 
+
+TOF(0.937392 usec) Vt(122.661 mm/usec) KE(3114.71 eV) 
+
+TOF(0.939228 usec) Vt(123.275 mm/usec) KE(3145.97 eV) 
+
+TOF(0.932127 usec) Vt(122.178 mm/usec) KE(3090.25 eV) 
+
+TOF(0.943135 usec) Vt(123.895 mm/usec) KE(3177.68 eV) 
+
+TOF(0.955374 usec) Vt(125.722 mm/usec) KE(3272.09 eV) 
+
+TOF(0.927781 usec) Vt(121.306 mm/usec) KE(3046.28 eV) 
+
+TOF(0.946896 usec) Vt(124.015 mm/usec) KE(3183.83 eV) 
+
+TOF(0.94116 usec) Vt(123.218 mm/usec) KE(3143.04 eV) 
+
+TOF(0.935129 usec) Vt(122.51 mm/usec) KE(3107.02 eV) 
+
+TOF(0.947126 usec) Vt(124.132 mm/usec) KE(3189.84 eV) 
+
+TOF(0.943801 usec) Vt(123.535 mm/usec) KE(3159.26 eV) 
+
+TOF(0.932832 usec) Vt(122.552 mm/usec) KE(3109.19 eV) 
+
+TOF(0.946705 usec) Vt(123.964 mm/usec) KE(3181.25 eV) 
+
+TOF(0.929567 usec) Vt(122.132 mm/usec) KE(3087.9 eV) 
+
+TOF(0.949155 usec) Vt(124.847 mm/usec) KE(3226.73 eV) 
+
+TOF(0.939499 usec) Vt(122.961 mm/usec) KE(3129.95 eV) 
+
+TOF(0.940169 usec) Vt(123.079 mm/usec) KE(3135.99 eV) 
+
+TOF(0.934828 usec) Vt(122.46 mm/usec) KE(3104.5 eV) 
+
+TOF(0.941544 usec) Vt(123.729 mm/usec) KE(3169.15 eV) 
+
+TOF(0.941954 usec) Vt(123.5 mm/usec) KE(3157.47 eV) 
+
+TOF(0.943776 usec) Vt(124.053 mm/usec) KE(3185.8 eV) 
+
+TOF(0.949254 usec) Vt(124.809 mm/usec) KE(3224.75 eV) 
+
+TOF(0.937263 usec) Vt(123.199 mm/usec) KE(3142.1 eV) 
+
+TOF(0.95122 usec) Vt(124.826 mm/usec) KE(3225.6 eV) 
+
+TOF(0.927596 usec) Vt(121.951 mm/usec) KE(3078.74 eV) 
+
+TOF(0.944176 usec) Vt(123.824 mm/usec) KE(3174.02 eV) 
+
+TOF(0.93547 usec) Vt(122.445 mm/usec) KE(3103.75 eV) 
+
+TOF(0.931616 usec) Vt(121.836 mm/usec) KE(3072.97 eV) 
+
+TOF(0.945369 usec) Vt(124.199 mm/usec) KE(3193.3 eV) 
+
+TOF(0.944448 usec) Vt(124.224 mm/usec) KE(3194.59 eV) 
+
+TOF(0.945753 usec) Vt(123.79 mm/usec) KE(3172.3 eV) 
+
+TOF(0.935131 usec) Vt(122.824 mm/usec) KE(3123.01 eV) 
+
+TOF(0.942292 usec) Vt(123.599 mm/usec) KE(3162.51 eV) 
+
+TOF(0.94041 usec) Vt(123.097 mm/usec) KE(3136.87 eV) 
+
+TOF(0.943296 usec) Vt(123.539 mm/usec) KE(3159.46 eV) 
+
+TOF(0.931567 usec) Vt(122.515 mm/usec) KE(3107.3 eV) 
+
+TOF(0.943108 usec) Vt(123.431 mm/usec) KE(3153.94 eV) 
+
+TOF(0.957393 usec) Vt(125.43 mm/usec) KE(3256.9 eV) 
+
+TOF(0.946491 usec) Vt(123.916 mm/usec) KE(3178.77 eV) 
+
+TOF(0.93976 usec) Vt(123.542 mm/usec) KE(3159.59 eV) 
+
+TOF(0.942983 usec) Vt(123.457 mm/usec) KE(3155.28 eV) 
+
+TOF(0.922878 usec) Vt(121.009 mm/usec) KE(3031.37 eV) 
+
+TOF(0.945915 usec) Vt(123.958 mm/usec) KE(3180.9 eV) 
+
+TOF(0.937963 usec) Vt(123.248 mm/usec) KE(3144.6 eV) 
+
+TOF(0.931891 usec) Vt(122.409 mm/usec) KE(3101.91 eV) 
+
+TOF(0.943865 usec) Vt(124.178 mm/usec) KE(3192.23 eV) 
+
+TOF(0.951661 usec) Vt(124.632 mm/usec) KE(3215.6 eV) 
+
+TOF(0.932398 usec) Vt(122.125 mm/usec) KE(3087.53 eV) 
+
+TOF(0.949329 usec) Vt(124.787 mm/usec) KE(3223.58 eV) 
+
+TOF(0.935396 usec) Vt(122.727 mm/usec) KE(3118.08 eV) 
+
+TOF(0.94103 usec) Vt(123.823 mm/usec) KE(3174.01 eV) 
+
+TOF(0.937868 usec) Vt(123.19 mm/usec) KE(3141.61 eV) 
+
+TOF(0.929184 usec) Vt(122.038 mm/usec) KE(3083.12 eV) 
+
+TOF(0.954491 usec) Vt(125.102 mm/usec) KE(3239.92 eV) 
+
+TOF(0.943783 usec) Vt(123.53 mm/usec) KE(3158.97 eV) 
+
+TOF(0.935665 usec) Vt(123.082 mm/usec) KE(3136.15 eV) 
+
+TOF(0.946728 usec) Vt(123.943 mm/usec) KE(3180.17 eV) 
+
+TOF(0.93805 usec) Vt(123.35 mm/usec) KE(3149.79 eV) 
+
+TOF(0.947372 usec) Vt(124.684 mm/usec) KE(3218.3 eV) 
+
+TOF(0.939896 usec) Vt(123.542 mm/usec) KE(3159.61 eV) 
+
+TOF(0.938627 usec) Vt(123.229 mm/usec) KE(3143.61 eV) 
+
+TOF(0.952652 usec) Vt(125.226 mm/usec) KE(3246.32 eV) 
+
+TOF(2.01683 usec) Vt(122.789 mm/usec) KE(3121.2 eV) 
+
+TOF(2.01487 usec) Vt(124.002 mm/usec) KE(3183.2 eV) 
+
+TOF(2.01519 usec) Vt(124.952 mm/usec) KE(3232.15 eV) 
+
+TOF(2.01424 usec) Vt(124.472 mm/usec) KE(3207.35 eV) 
+
+TOF(2.01948 usec) Vt(124.239 mm/usec) KE(3195.38 eV) 
+
+TOF(2.01458 usec) Vt(124.314 mm/usec) KE(3199.2 eV) 
+
+TOF(2.0193 usec) Vt(122.971 mm/usec) KE(3130.49 eV) 
+
+TOF(2.01779 usec) Vt(123.912 mm/usec) KE(3178.57 eV) 
+
+TOF(2.01612 usec) Vt(123.332 mm/usec) KE(3148.87 eV) 
+
+TOF(2.01906 usec) Vt(121.969 mm/usec) KE(3079.68 eV) 
+
+TOF(2.01582 usec) Vt(123.381 mm/usec) KE(3151.39 eV) 
+
+TOF(2.01672 usec) Vt(122.866 mm/usec) KE(3125.11 eV) 
+
+TOF(2.01731 usec) Vt(123.087 mm/usec) KE(3136.38 eV) 
+
+TOF(2.02398 usec) Vt(121.164 mm/usec) KE(3039.13 eV) 
+
+TOF(2.02013 usec) Vt(123.739 mm/usec) KE(3169.7 eV) 
+
+TOF(2.01296 usec) Vt(125.434 mm/usec) KE(3257.11 eV) 
+
+TOF(2.01694 usec) Vt(123.232 mm/usec) KE(3143.79 eV) 
+
+TOF(2.01982 usec) Vt(122.778 mm/usec) KE(3120.62 eV) 
+
+TOF(2.0144 usec) Vt(125.238 mm/usec) KE(3246.94 eV) 
+
+TOF(2.02255 usec) Vt(122.273 mm/usec) KE(3095.01 eV) 
+
+TOF(2.02323 usec) Vt(121.79 mm/usec) KE(3070.63 eV) 
+
+TOF(2.01996 usec) Vt(123.659 mm/usec) KE(3165.61 eV) 
+
+TOF(2.01733 usec) Vt(123.19 mm/usec) KE(3141.62 eV) 
+
+TOF(2.01751 usec) Vt(125.663 mm/usec) KE(3269.03 eV) 
+
+TOF(2.01988 usec) Vt(121.207 mm/usec) KE(3041.29 eV) 
+
+TOF(2.01922 usec) Vt(124.466 mm/usec) KE(3207.04 eV) 
+
+TOF(2.02111 usec) Vt(123.155 mm/usec) KE(3139.84 eV) 
+
+TOF(2.02142 usec) Vt(122.465 mm/usec) KE(3104.76 eV) 
+
+TOF(2.02214 usec) Vt(122.064 mm/usec) KE(3084.47 eV) 
+
+TOF(2.02381 usec) Vt(121.345 mm/usec) KE(3048.22 eV) 
+
+TOF(2.01924 usec) Vt(123.271 mm/usec) KE(3145.75 eV) 
+
+TOF(2.01647 usec) Vt(122.931 mm/usec) KE(3128.45 eV) 
+
+TOF(2.02208 usec) Vt(122.367 mm/usec) KE(3099.78 eV) 
+
+TOF(2.01775 usec) Vt(123.799 mm/usec) KE(3172.74 eV) 
+
+TOF(2.0194 usec) Vt(122.758 mm/usec) KE(3119.64 eV) 
+
+TOF(2.01828 usec) Vt(124.549 mm/usec) KE(3211.33 eV) 
+
+TOF(2.01512 usec) Vt(124.954 mm/usec) KE(3232.22 eV) 
+
+TOF(2.01935 usec) Vt(124.337 mm/usec) KE(3200.42 eV) 
+
+TOF(2.0165 usec) Vt(124.403 mm/usec) KE(3203.78 eV) 
+
+TOF(2.01648 usec) Vt(124.691 mm/usec) KE(3218.67 eV) 
+
+TOF(2.02097 usec) Vt(123.259 mm/usec) KE(3145.13 eV) 
+
+TOF(2.02017 usec) Vt(122.071 mm/usec) KE(3084.79 eV) 
+
+TOF(2.02056 usec) Vt(122.964 mm/usec) KE(3130.11 eV) 
+
+TOF(2.01603 usec) Vt(123.47 mm/usec) KE(3155.94 eV) 
+
+TOF(2.01624 usec) Vt(123.494 mm/usec) KE(3157.15 eV) 
+
+TOF(2.01433 usec) Vt(124.872 mm/usec) KE(3227.98 eV) 
+
+TOF(2.01927 usec) Vt(123.888 mm/usec) KE(3177.35 eV) 
+
+TOF(2.01455 usec) Vt(124.467 mm/usec) KE(3207.09 eV) 
+
+TOF(2.01775 usec) Vt(123.651 mm/usec) KE(3165.19 eV) 
+
+TOF(2.01633 usec) Vt(123.926 mm/usec) KE(3179.3 eV) 
+
+TOF(2.01437 usec) Vt(124.492 mm/usec) KE(3208.38 eV) 
+
+TOF(2.01388 usec) Vt(124.742 mm/usec) KE(3221.26 eV) 
+
+TOF(2.01563 usec) Vt(123.811 mm/usec) KE(3173.37 eV) 
+
+TOF(2.01965 usec) Vt(123.899 mm/usec) KE(3177.89 eV) 
+
+TOF(2.01833 usec) Vt(124.398 mm/usec) KE(3203.53 eV) 
+
+TOF(2.01962 usec) Vt(124.092 mm/usec) KE(3187.82 eV) 
+
+TOF(2.01945 usec) Vt(121.923 mm/usec) KE(3077.36 eV) 
+
+TOF(2.01795 usec) Vt(124.865 mm/usec) KE(3227.64 eV) 
+
+TOF(2.01837 usec) Vt(122.547 mm/usec) KE(3108.9 eV) 
+
+TOF(2.01872 usec) Vt(123.074 mm/usec) KE(3135.73 eV) 
+
+TOF(2.01938 usec) Vt(123.984 mm/usec) KE(3182.23 eV) 
+
+TOF(2.01609 usec) Vt(123.187 mm/usec) KE(3141.5 eV) 
+
+TOF(2.02112 usec) Vt(122.63 mm/usec) KE(3113.11 eV) 
+
+TOF(2.01998 usec) Vt(123.454 mm/usec) KE(3155.1 eV) 
+
+TOF(2.02042 usec) Vt(123.072 mm/usec) KE(3135.62 eV) 
+
+TOF(2.01794 usec) Vt(122.637 mm/usec) KE(3113.49 eV) 
+
+TOF(2.01844 usec) Vt(124.52 mm/usec) KE(3209.83 eV) 
+
+TOF(2.01824 usec) Vt(122.469 mm/usec) KE(3104.98 eV) 
+
+TOF(2.01508 usec) Vt(123.904 mm/usec) KE(3178.15 eV) 
+
+TOF(2.01598 usec) Vt(123.257 mm/usec) KE(3145.03 eV) 
+
+TOF(2.02047 usec) Vt(122.663 mm/usec) KE(3114.79 eV) 
+
+TOF(2.01669 usec) Vt(124.959 mm/usec) KE(3232.48 eV) 
+
+TOF(2.02054 usec) Vt(122.582 mm/usec) KE(3110.71 eV) 
+
+TOF(2.01593 usec) Vt(123.342 mm/usec) KE(3149.39 eV) 
+
+TOF(2.02079 usec) Vt(123.271 mm/usec) KE(3145.74 eV) 
+
+TOF(2.02096 usec) Vt(123.143 mm/usec) KE(3139.23 eV) 
+
+TOF(2.02066 usec) Vt(123.277 mm/usec) KE(3146.07 eV) 
+
+TOF(2.01689 usec) Vt(124.706 mm/usec) KE(3219.43 eV) 
+
+TOF(2.02037 usec) Vt(123.191 mm/usec) KE(3141.65 eV) 
+
+TOF(2.01769 usec) Vt(123.343 mm/usec) KE(3149.43 eV) 
+
+TOF(2.01707 usec) Vt(124.577 mm/usec) KE(3212.76 eV) 
+
+TOF(2.01682 usec) Vt(125.119 mm/usec) KE(3240.8 eV) 
+
+TOF(2.01682 usec) Vt(124.122 mm/usec) KE(3189.36 eV) 
+
+TOF(2.01958 usec) Vt(123.574 mm/usec) KE(3161.24 eV) 
+
+TOF(2.02068 usec) Vt(123.226 mm/usec) KE(3143.45 eV) 
+
+TOF(2.01563 usec) Vt(123.973 mm/usec) KE(3181.67 eV) 
+
+TOF(2.02223 usec) Vt(122.438 mm/usec) KE(3103.37 eV) 
+
+TOF(2.01812 usec) Vt(122.188 mm/usec) KE(3090.74 eV) 
+
+TOF(2.01532 usec) Vt(123.794 mm/usec) KE(3172.51 eV) 
+
+TOF(2.01455 usec) Vt(125.032 mm/usec) KE(3236.29 eV) 
+
+TOF(2.02035 usec) Vt(123.46 mm/usec) KE(3155.4 eV) 
+
+TOF(2.01853 usec) Vt(123.039 mm/usec) KE(3133.93 eV) 
+
+TOF(2.01825 usec) Vt(122.009 mm/usec) KE(3081.67 eV) 
+
+TOF(2.01769 usec) Vt(123.323 mm/usec) KE(3148.4 eV) 
+
+TOF(2.01783 usec) Vt(123.345 mm/usec) KE(3149.54 eV) 
+
+TOF(2.01577 usec) Vt(123.429 mm/usec) KE(3153.8 eV) 
+
+TOF(2.01966 usec) Vt(122.45 mm/usec) KE(3104.01 eV) 
+
+TOF(2.01752 usec) Vt(123.436 mm/usec) KE(3154.16 eV) 
+
+TOF(2.02095 usec) Vt(123.231 mm/usec) KE(3143.74 eV) 
+
+TOF(2.01926 usec) Vt(122.452 mm/usec) KE(3104.1 eV) 
+
+TOF(2.01745 usec) Vt(122.595 mm/usec) KE(3111.34 eV) 
+
+TOF(2.01496 usec) Vt(124.111 mm/usec) KE(3188.79 eV) 
+
+TOF(2.01787 usec) Vt(124.354 mm/usec) KE(3201.25 eV) 
+
+TOF(2.01776 usec) Vt(124.677 mm/usec) KE(3217.93 eV) 
+
+TOF(2.01947 usec) Vt(121.766 mm/usec) KE(3069.42 eV) 
+
+TOF(2.01632 usec) Vt(125.075 mm/usec) KE(3238.51 eV) 
+
+TOF(2.01896 usec) Vt(121.632 mm/usec) KE(3062.66 eV) 
+
+TOF(2.01773 usec) Vt(124.315 mm/usec) KE(3199.28 eV) 
+
+TOF(2.01826 usec) Vt(121.862 mm/usec) KE(3074.25 eV) 
+
+TOF(2.01416 usec) Vt(124.519 mm/usec) KE(3209.78 eV) 
+
+TOF(2.02182 usec) Vt(122.569 mm/usec) KE(3110.02 eV) 
+
+TOF(2.01961 usec) Vt(124.065 mm/usec) KE(3186.39 eV) 
+
+TOF(2.01501 usec) Vt(123.981 mm/usec) KE(3182.08 eV) 
+
+TOF(2.01933 usec) Vt(122.033 mm/usec) KE(3082.89 eV) 
+
+TOF(2.01906 usec) Vt(122.547 mm/usec) KE(3108.94 eV) 
+
+TOF(2.01506 usec) Vt(124.501 mm/usec) KE(3208.84 eV) 
+
+TOF(2.02238 usec) Vt(121.745 mm/usec) KE(3068.35 eV) 
+
+TOF(2.02125 usec) Vt(123.021 mm/usec) KE(3133 eV) 
+
+TOF(2.01874 usec) Vt(124.048 mm/usec) KE(3185.53 eV) 
+
+TOF(2.01631 usec) Vt(123.189 mm/usec) KE(3141.56 eV) 
+
+TOF(2.02242 usec) Vt(122.252 mm/usec) KE(3093.97 eV) 
+
+TOF(2.01998 usec) Vt(121.722 mm/usec) KE(3067.21 eV) 
+
+TOF(2.01653 usec) Vt(124.259 mm/usec) KE(3196.37 eV) 
+
+TOF(2.01913 usec) Vt(123.723 mm/usec) KE(3168.89 eV) 
+
+TOF(2.019 usec) Vt(123.034 mm/usec) KE(3133.69 eV) 
+
+TOF(2.02076 usec) Vt(122.952 mm/usec) KE(3129.49 eV) 
+
+TOF(2.01708 usec) Vt(124.634 mm/usec) KE(3215.73 eV) 
+
+TOF(2.01991 usec) Vt(123.598 mm/usec) KE(3162.45 eV) 
+
+TOF(2.0171 usec) Vt(123.456 mm/usec) KE(3155.22 eV) 
+
+TOF(2.01945 usec) Vt(122.707 mm/usec) KE(3117.03 eV) 
+
+TOF(2.01985 usec) Vt(122.882 mm/usec) KE(3125.95 eV) 
+
+TOF(2.01572 usec) Vt(123.615 mm/usec) KE(3163.34 eV) 
+
+TOF(2.01651 usec) Vt(125.762 mm/usec) KE(3274.17 eV) 
+
+TOF(2.02052 usec) Vt(122.086 mm/usec) KE(3085.57 eV) 
+
+TOF(2.01688 usec) Vt(122.682 mm/usec) KE(3115.76 eV) 
+
+TOF(2.02234 usec) Vt(122.397 mm/usec) KE(3101.32 eV) 
+
+TOF(2.01586 usec) Vt(124.403 mm/usec) KE(3203.82 eV) 
+
+TOF(2.01603 usec) Vt(123.285 mm/usec) KE(3146.46 eV) 
+
+TOF(2.01405 usec) Vt(124.635 mm/usec) KE(3215.76 eV) 
+
+TOF(2.019 usec) Vt(123.952 mm/usec) KE(3180.63 eV) 
+
+TOF(2.01871 usec) Vt(122.62 mm/usec) KE(3112.63 eV) 
+
+TOF(2.0155 usec) Vt(123.707 mm/usec) KE(3168.05 eV) 
+
+TOF(2.019 usec) Vt(122.602 mm/usec) KE(3111.69 eV) 
+
+TOF(2.01812 usec) Vt(122.044 mm/usec) KE(3083.44 eV) 
+
+TOF(2.01886 usec) Vt(122.586 mm/usec) KE(3110.9 eV) 
+
+TOF(2.01818 usec) Vt(124.3 mm/usec) KE(3198.52 eV) 
+
+TOF(2.02283 usec) Vt(122.078 mm/usec) KE(3085.17 eV) 
+
+TOF(2.02012 usec) Vt(123.267 mm/usec) KE(3145.56 eV) 
+
+TOF(2.016 usec) Vt(123.549 mm/usec) KE(3159.95 eV) 
+
+TOF(2.01873 usec) Vt(121.941 mm/usec) KE(3078.27 eV) 
+
+TOF(2.02128 usec) Vt(120.901 mm/usec) KE(3025.95 eV) 
+
+TOF(2.01846 usec) Vt(123.977 mm/usec) KE(3181.91 eV) 
+
+TOF(2.01783 usec) Vt(124.395 mm/usec) KE(3203.38 eV) 
+
+TOF(2.01784 usec) Vt(123.127 mm/usec) KE(3138.43 eV) 
+
+TOF(2.01854 usec) Vt(123.602 mm/usec) KE(3162.66 eV) 
+
+TOF(2.02205 usec) Vt(122.384 mm/usec) KE(3100.66 eV) 
+
+TOF(2.01821 usec) Vt(121.918 mm/usec) KE(3077.07 eV) 
+
+TOF(2.01436 usec) Vt(124.562 mm/usec) KE(3212 eV) 
+
+TOF(2.01385 usec) Vt(125.005 mm/usec) KE(3234.87 eV) 
+
+TOF(2.01881 usec) Vt(122.125 mm/usec) KE(3087.54 eV) 
+
+TOF(2.01791 usec) Vt(122.292 mm/usec) KE(3096.01 eV) 
+
+TOF(2.0207 usec) Vt(123.375 mm/usec) KE(3151.09 eV) 
+
+TOF(2.02434 usec) Vt(121.234 mm/usec) KE(3042.68 eV) 
+
+TOF(2.01798 usec) Vt(125.318 mm/usec) KE(3251.11 eV) 
+
+TOF(2.02082 usec) Vt(123.133 mm/usec) KE(3138.72 eV) 
+
+TOF(2.01773 usec) Vt(123.914 mm/usec) KE(3178.65 eV) 
+
+TOF(2.01943 usec) Vt(121.529 mm/usec) KE(3057.46 eV) 
+
+TOF(2.01554 usec) Vt(123.582 mm/usec) KE(3161.63 eV) 
+
+TOF(2.01904 usec) Vt(124.514 mm/usec) KE(3209.53 eV) 
+
+TOF(2.01894 usec) Vt(122.804 mm/usec) KE(3121.97 eV) 
+
+TOF(2.01807 usec) Vt(122.186 mm/usec) KE(3090.61 eV) 
+
+TOF(2.01837 usec) Vt(124.349 mm/usec) KE(3201 eV) 
+
+TOF(2.01734 usec) Vt(122.55 mm/usec) KE(3109.09 eV) 
+
+TOF(2.01644 usec) Vt(123.508 mm/usec) KE(3157.89 eV) 
+
+TOF(2.01718 usec) Vt(122.492 mm/usec) KE(3106.13 eV) 
+
+TOF(2.01779 usec) Vt(125 mm/usec) KE(3234.62 eV) 
+
+TOF(2.01809 usec) Vt(125.229 mm/usec) KE(3246.5 eV) 
+
+TOF(2.01608 usec) Vt(123.341 mm/usec) KE(3149.31 eV) 
+
+TOF(2.01826 usec) Vt(125.177 mm/usec) KE(3243.77 eV) 
+
+TOF(2.01534 usec) Vt(124.996 mm/usec) KE(3234.4 eV) 
+
+TOF(2.01934 usec) Vt(123.943 mm/usec) KE(3180.13 eV) 
+
+TOF(2.01625 usec) Vt(123.223 mm/usec) KE(3143.3 eV) 
+
+TOF(2.01768 usec) Vt(124.519 mm/usec) KE(3209.8 eV) 
+
+TOF(2.01533 usec) Vt(124.076 mm/usec) KE(3186.99 eV) 
+
+TOF(2.02315 usec) Vt(121.635 mm/usec) KE(3062.83 eV) 
+
+TOF(2.01466 usec) Vt(124.222 mm/usec) KE(3194.47 eV) 
+
+TOF(2.0168 usec) Vt(123.128 mm/usec) KE(3138.45 eV) 
+
+TOF(2.01784 usec) Vt(122.746 mm/usec) KE(3119.04 eV) 
+
+TOF(2.01858 usec) Vt(123.967 mm/usec) KE(3181.4 eV) 
+
+TOF(2.01524 usec) Vt(124.084 mm/usec) KE(3187.39 eV) 
+
+TOF(2.01701 usec) Vt(122.931 mm/usec) KE(3128.45 eV) 
+
+TOF(2.01909 usec) Vt(123.601 mm/usec) KE(3162.64 eV) 
+
+TOF(2.02036 usec) Vt(121.631 mm/usec) KE(3062.64 eV) 
+
+TOF(2.01759 usec) Vt(123.966 mm/usec) KE(3181.34 eV) 
+
+TOF(2.01972 usec) Vt(122.362 mm/usec) KE(3099.55 eV) 
+
+TOF(2.01477 usec) Vt(124.096 mm/usec) KE(3188 eV) 
+
+TOF(2.01748 usec) Vt(122.655 mm/usec) KE(3114.39 eV) 
+
+TOF(2.02033 usec) Vt(122.9 mm/usec) KE(3126.85 eV) 
+
+TOF(2.02061 usec) Vt(123.075 mm/usec) KE(3135.75 eV) 
+
+TOF(2.02168 usec) Vt(122.735 mm/usec) KE(3118.44 eV) 
+
+TOF(2.01763 usec) Vt(122.3 mm/usec) KE(3096.39 eV) 
+
+TOF(2.01958 usec) Vt(123.742 mm/usec) KE(3169.87 eV) 
+
+TOF(2.0195 usec) Vt(124.22 mm/usec) KE(3194.37 eV) 
+
+TOF(2.0162 usec) Vt(123.387 mm/usec) KE(3151.68 eV) 
+
+TOF(2.01895 usec) Vt(124.583 mm/usec) KE(3213.09 eV) 
+
+TOF(2.01905 usec) Vt(122.347 mm/usec) KE(3098.78 eV) 
+
+TOF(2.01923 usec) Vt(123.735 mm/usec) KE(3169.47 eV) 
+
+TOF(2.02115 usec) Vt(122.38 mm/usec) KE(3100.43 eV) 
+
+TOF(2.01699 usec) Vt(124.007 mm/usec) KE(3183.44 eV) 
+
+TOF(2.01804 usec) Vt(122.095 mm/usec) KE(3086.03 eV) 
+
+TOF(2.01702 usec) Vt(123.701 mm/usec) KE(3167.76 eV) 
+
+TOF(2.02004 usec) Vt(123.402 mm/usec) KE(3152.43 eV) 
+
+TOF(2.0176 usec) Vt(122.293 mm/usec) KE(3096.03 eV) 
+
+TOF(2.01572 usec) Vt(123.423 mm/usec) KE(3153.51 eV) 
+
+TOF(2.01452 usec) Vt(124.257 mm/usec) KE(3196.28 eV) 
+
+TOF(2.01778 usec) Vt(123.689 mm/usec) KE(3167.13 eV) 
+
+TOF(2.01548 usec) Vt(123.829 mm/usec) KE(3174.32 eV) 
+
+TOF(2.01616 usec) Vt(125.179 mm/usec) KE(3243.91 eV) 
+
+TOF(2.02004 usec) Vt(123.859 mm/usec) KE(3175.86 eV) 
+
+TOF(2.01886 usec) Vt(124.307 mm/usec) KE(3198.86 eV) 
+
+TOF(2.01583 usec) Vt(123.402 mm/usec) KE(3152.47 eV) 
+
+TOF(2.0212 usec) Vt(123 mm/usec) KE(3131.95 eV) 
+
+TOF(2.01986 usec) Vt(123.913 mm/usec) KE(3178.6 eV) 
+
+TOF(2.01876 usec) Vt(124.689 mm/usec) KE(3218.53 eV) 
+
+TOF(2.01709 usec) Vt(124.024 mm/usec) KE(3184.3 eV) 
+
+TOF(2.01792 usec) Vt(122.299 mm/usec) KE(3096.35 eV) 
+
+TOF(2.01722 usec) Vt(124.386 mm/usec) KE(3202.92 eV) 
+
+TOF(2.02118 usec) Vt(122.543 mm/usec) KE(3108.72 eV) 
+
+TOF(2.01797 usec) Vt(122.3 mm/usec) KE(3096.38 eV) 
+
+TOF(2.01452 usec) Vt(124.248 mm/usec) KE(3195.81 eV) 
+
+TOF(2.01698 usec) Vt(123.58 mm/usec) KE(3161.55 eV) 
+
+TOF(2.01981 usec) Vt(123.415 mm/usec) KE(3153.12 eV) 
+
+TOF(2.01463 usec) Vt(124.19 mm/usec) KE(3192.81 eV) 
+
+TOF(2.01949 usec) Vt(123.302 mm/usec) KE(3147.33 eV) 
+
+TOF(2.0226 usec) Vt(121.607 mm/usec) KE(3061.42 eV) 
+
+TOF(2.01363 usec) Vt(124.899 mm/usec) KE(3229.38 eV) 
+
+TOF(2.01759 usec) Vt(122.635 mm/usec) KE(3113.37 eV) 
+
+TOF(2.02331 usec) Vt(121.557 mm/usec) KE(3058.91 eV) 
+
+TOF(2.0168 usec) Vt(124.533 mm/usec) KE(3210.47 eV) 
+
+TOF(2.01583 usec) Vt(123.46 mm/usec) KE(3155.42 eV) 
+
+TOF(2.02018 usec) Vt(123.643 mm/usec) KE(3164.76 eV) 
+
+TOF(2.02275 usec) Vt(121.482 mm/usec) KE(3055.1 eV) 
+
+TOF(2.02031 usec) Vt(123.492 mm/usec) KE(3157.03 eV) 
+
+TOF(2.01891 usec) Vt(123.253 mm/usec) KE(3144.86 eV) 
+
+TOF(2.01609 usec) Vt(123.264 mm/usec) KE(3145.43 eV) 
+
+TOF(2.01581 usec) Vt(123.618 mm/usec) KE(3163.48 eV) 
+
+TOF(2.01704 usec) Vt(123.734 mm/usec) KE(3169.45 eV) 
+
+TOF(2.02155 usec) Vt(122.801 mm/usec) KE(3121.8 eV) 
+
+TOF(2.01561 usec) Vt(124.763 mm/usec) KE(3222.38 eV) 
+
+TOF(2.01964 usec) Vt(122.951 mm/usec) KE(3129.47 eV) 
+
+TOF(2.01854 usec) Vt(124.382 mm/usec) KE(3202.73 eV) 
+
+TOF(2.01587 usec) Vt(123.498 mm/usec) KE(3157.37 eV) 
+
+TOF(2.0159 usec) Vt(123.647 mm/usec) KE(3164.96 eV) 
+
+TOF(2.01327 usec) Vt(125.193 mm/usec) KE(3244.63 eV) 
+
+TOF(2.0153 usec) Vt(123.876 mm/usec) KE(3176.73 eV) 
+
+TOF(2.02057 usec) Vt(121.707 mm/usec) KE(3066.46 eV) 
+
+TOF(2.01695 usec) Vt(122.651 mm/usec) KE(3114.2 eV) 
+
+TOF(2.0209 usec) Vt(123.01 mm/usec) KE(3132.45 eV) 
+
+TOF(2.01764 usec) Vt(125.528 mm/usec) KE(3262 eV) 
+
+TOF(2.01844 usec) Vt(123.244 mm/usec) KE(3144.37 eV) 
+
+TOF(2.01862 usec) Vt(124.849 mm/usec) KE(3226.81 eV) 
+
+TOF(2.0164 usec) Vt(123.569 mm/usec) KE(3160.97 eV) 
+
+TOF(2.01737 usec) Vt(122.422 mm/usec) KE(3102.57 eV) 
+
+TOF(2.01919 usec) Vt(124.338 mm/usec) KE(3200.44 eV) 
+
+TOF(2.0188 usec) Vt(123.473 mm/usec) KE(3156.06 eV) 
+
+TOF(2.02169 usec) Vt(122.797 mm/usec) KE(3121.6 eV) 
+
+TOF(2.01806 usec) Vt(122.701 mm/usec) KE(3116.72 eV) 
+
+TOF(2.01391 usec) Vt(124.945 mm/usec) KE(3231.79 eV) 
+
+TOF(2.02081 usec) Vt(123.194 mm/usec) KE(3141.82 eV) 
+
+TOF(2.01854 usec) Vt(122.615 mm/usec) KE(3112.39 eV) 
+
+TOF(2.01799 usec) Vt(123.436 mm/usec) KE(3154.19 eV) 
+
+TOF(2.0207 usec) Vt(121.9 mm/usec) KE(3076.2 eV) 
+
+TOF(2.01489 usec) Vt(124.606 mm/usec) KE(3214.28 eV) 
+
+TOF(2.01474 usec) Vt(124.102 mm/usec) KE(3188.33 eV) 
+
+TOF(2.01429 usec) Vt(124.419 mm/usec) KE(3204.64 eV) 
+
+TOF(2.02013 usec) Vt(123.812 mm/usec) KE(3173.45 eV) 
+
+TOF(2.01778 usec) Vt(123.463 mm/usec) KE(3155.56 eV) 
+
+TOF(2.01528 usec) Vt(124.166 mm/usec) KE(3191.6 eV) 
+
+TOF(2.01909 usec) Vt(124.534 mm/usec) KE(3210.55 eV) 
+
+TOF(2.01277 usec) Vt(125.786 mm/usec) KE(3275.43 eV) 
+
+TOF(2.01458 usec) Vt(124.389 mm/usec) KE(3203.07 eV) 
+
+TOF(2.01636 usec) Vt(123.637 mm/usec) KE(3164.45 eV) 
+
+TOF(2.01474 usec) Vt(124.182 mm/usec) KE(3192.41 eV) 
+
+TOF(2.01755 usec) Vt(123.187 mm/usec) KE(3141.49 eV) 
+
+TOF(2.02155 usec) Vt(122.629 mm/usec) KE(3113.08 eV) 
+
+TOF(2.01537 usec) Vt(124.311 mm/usec) KE(3199.05 eV) 
+
+TOF(2.01891 usec) Vt(123.203 mm/usec) KE(3142.31 eV) 
+
+TOF(2.01521 usec) Vt(123.76 mm/usec) KE(3170.74 eV) 
+
+TOF(2.01394 usec) Vt(124.671 mm/usec) KE(3217.62 eV) 
+
+TOF(2.02132 usec) Vt(122.958 mm/usec) KE(3129.82 eV) 
+
+TOF(2.01621 usec) Vt(124.004 mm/usec) KE(3183.29 eV) 
+
+TOF(2.01701 usec) Vt(123.529 mm/usec) KE(3158.93 eV) 
+
+TOF(2.01866 usec) Vt(124.26 mm/usec) KE(3196.44 eV) 
+
+TOF(2.01484 usec) Vt(124.689 mm/usec) KE(3218.53 eV) 
+
+TOF(2.01808 usec) Vt(123.368 mm/usec) KE(3150.73 eV) 
+
+TOF(2.01344 usec) Vt(125.05 mm/usec) KE(3237.23 eV) 
+
+TOF(2.02119 usec) Vt(123.123 mm/usec) KE(3138.21 eV) 
+
+TOF(2.01771 usec) Vt(123.005 mm/usec) KE(3132.22 eV) 
+
+TOF(2.0169 usec) Vt(123.453 mm/usec) KE(3155.08 eV) 
+
+TOF(2.01996 usec) Vt(123.623 mm/usec) KE(3163.77 eV) 
+
+TOF(2.01505 usec) Vt(124.01 mm/usec) KE(3183.57 eV) 
+
+TOF(2.01666 usec) Vt(124.566 mm/usec) KE(3212.2 eV) 
+
+TOF(2.01535 usec) Vt(123.93 mm/usec) KE(3179.48 eV) 
+
+TOF(2.023 usec) Vt(121.866 mm/usec) KE(3074.45 eV) 
+
+TOF(2.01673 usec) Vt(123.408 mm/usec) KE(3152.77 eV) 
+
+TOF(2.01749 usec) Vt(123.249 mm/usec) KE(3144.64 eV) 
+
+TOF(2.01537 usec) Vt(124.456 mm/usec) KE(3206.53 eV) 
+
+TOF(2.01587 usec) Vt(123.454 mm/usec) KE(3155.09 eV) 
+
+TOF(2.02148 usec) Vt(122.787 mm/usec) KE(3121.12 eV) 
+
+TOF(2.02004 usec) Vt(122.647 mm/usec) KE(3114 eV) 
+
+TOF(2.01855 usec) Vt(124.678 mm/usec) KE(3218 eV) 
+
+TOF(2.01632 usec) Vt(123.636 mm/usec) KE(3164.42 eV) 
+
+TOF(2.02041 usec) Vt(123.366 mm/usec) KE(3150.63 eV) 
+
+TOF(2.01666 usec) Vt(124.015 mm/usec) KE(3183.87 eV) 
+
+TOF(2.02132 usec) Vt(122.958 mm/usec) KE(3129.83 eV) 
+
+TOF(2.01655 usec) Vt(123.287 mm/usec) KE(3146.6 eV) 
+
+TOF(2.01677 usec) Vt(123.587 mm/usec) KE(3161.91 eV) 
+
+TOF(2.02041 usec) Vt(123.246 mm/usec) KE(3144.5 eV) 
+
+TOF(2.01693 usec) Vt(123.019 mm/usec) KE(3132.91 eV) 
+
+TOF(2.0196 usec) Vt(121.164 mm/usec) KE(3039.17 eV) 
+
+TOF(2.01885 usec) Vt(123.698 mm/usec) KE(3167.58 eV) 
+
+TOF(2.01627 usec) Vt(124.133 mm/usec) KE(3189.92 eV) 
+
+TOF(2.01609 usec) Vt(123.781 mm/usec) KE(3171.84 eV) 
+
+TOF(2.01649 usec) Vt(123.936 mm/usec) KE(3179.78 eV) 
+
+TOF(2.01872 usec) Vt(123.877 mm/usec) KE(3176.75 eV) 
+
+TOF(2.01745 usec) Vt(123.942 mm/usec) KE(3180.09 eV) 
+
+TOF(2.01723 usec) Vt(122.793 mm/usec) KE(3121.42 eV) 
+
+TOF(2.021 usec) Vt(122.802 mm/usec) KE(3121.86 eV) 
+
+TOF(2.01845 usec) Vt(122.768 mm/usec) KE(3120.15 eV) 
+
+TOF(2.01818 usec) Vt(122.518 mm/usec) KE(3107.47 eV) 
+
+TOF(0.943984 usec) Vt(123.854 mm/usec) KE(3175.6 eV) 
+
+TOF(0.943301 usec) Vt(124.122 mm/usec) KE(3189.33 eV) 
+
+TOF(0.93453 usec) Vt(122.61 mm/usec) KE(3112.1 eV) 
+
+TOF(0.944282 usec) Vt(123.849 mm/usec) KE(3175.31 eV) 
+
+TOF(0.933369 usec) Vt(122.699 mm/usec) KE(3116.61 eV) 
+
+TOF(0.937668 usec) Vt(123.257 mm/usec) KE(3145.03 eV) 
+
+TOF(0.945051 usec) Vt(123.85 mm/usec) KE(3175.39 eV) 
+
+TOF(0.93085 usec) Vt(122.416 mm/usec) KE(3102.25 eV) 
+
+TOF(0.9443 usec) Vt(123.915 mm/usec) KE(3178.7 eV) 
+
+TOF(0.939599 usec) Vt(123.517 mm/usec) KE(3158.34 eV) 
+
+TOF(0.930801 usec) Vt(121.997 mm/usec) KE(3081.06 eV) 
+
+TOF(0.931193 usec) Vt(122.447 mm/usec) KE(3103.83 eV) 
+
+TOF(0.944441 usec) Vt(124.252 mm/usec) KE(3196.02 eV) 
+
+TOF(0.944715 usec) Vt(123.653 mm/usec) KE(3165.28 eV) 
+
+TOF(0.951919 usec) Vt(125.104 mm/usec) KE(3239.99 eV) 
+
+TOF(0.94154 usec) Vt(123.897 mm/usec) KE(3177.81 eV) 
+
+TOF(0.936201 usec) Vt(123.142 mm/usec) KE(3139.2 eV) 
+
+TOF(0.946216 usec) Vt(124.502 mm/usec) KE(3208.89 eV) 
+
+TOF(0.936986 usec) Vt(122.573 mm/usec) KE(3110.23 eV) 
+
+TOF(0.946397 usec) Vt(124.204 mm/usec) KE(3193.58 eV) 
+
+TOF(0.932945 usec) Vt(122.658 mm/usec) KE(3114.56 eV) 
+
+TOF(0.940403 usec) Vt(123.107 mm/usec) KE(3137.38 eV) 
+
+TOF(0.94713 usec) Vt(123.992 mm/usec) KE(3182.67 eV) 
+
+TOF(0.937164 usec) Vt(123.111 mm/usec) KE(3137.6 eV) 
+
+TOF(0.932942 usec) Vt(122.464 mm/usec) KE(3104.68 eV) 
+
+TOF(0.942908 usec) Vt(123.393 mm/usec) KE(3151.99 eV) 
+
+TOF(0.934645 usec) Vt(122.644 mm/usec) KE(3113.83 eV) 
+
+TOF(0.940442 usec) Vt(123.273 mm/usec) KE(3145.88 eV) 
+
+TOF(0.936017 usec) Vt(122.463 mm/usec) KE(3104.67 eV) 
+
+TOF(0.940181 usec) Vt(123.693 mm/usec) KE(3167.33 eV) 
+
+TOF(0.93752 usec) Vt(123.008 mm/usec) KE(3132.37 eV) 
+
+TOF(0.947221 usec) Vt(124.567 mm/usec) KE(3212.26 eV) 
+
+TOF(0.922982 usec) Vt(121.308 mm/usec) KE(3046.39 eV) 
+
+TOF(0.93676 usec) Vt(122.595 mm/usec) KE(3111.36 eV) 
+
+TOF(0.935524 usec) Vt(123.027 mm/usec) KE(3133.3 eV) 
+
+TOF(0.9479 usec) Vt(124.524 mm/usec) KE(3210.04 eV) 
+
+TOF(0.951475 usec) Vt(125.114 mm/usec) KE(3240.53 eV) 
+
+TOF(0.949818 usec) Vt(125.044 mm/usec) KE(3236.93 eV) 
+
+TOF(0.933325 usec) Vt(122.758 mm/usec) KE(3119.63 eV) 
+
+TOF(0.927426 usec) Vt(121.924 mm/usec) KE(3077.37 eV) 
+
+TOF(0.935187 usec) Vt(122.426 mm/usec) KE(3102.76 eV) 
+
+TOF(0.935576 usec) Vt(123.029 mm/usec) KE(3133.44 eV) 
+
+TOF(0.945007 usec) Vt(123.903 mm/usec) KE(3178.11 eV) 
+
+TOF(0.95335 usec) Vt(124.845 mm/usec) KE(3226.6 eV) 
+
+TOF(0.938521 usec) Vt(122.981 mm/usec) KE(3130.96 eV) 
+
+TOF(0.948165 usec) Vt(124.686 mm/usec) KE(3218.39 eV) 
+
+TOF(0.932348 usec) Vt(121.95 mm/usec) KE(3078.71 eV) 
+
+TOF(0.92895 usec) Vt(121.943 mm/usec) KE(3078.34 eV) 
+
+TOF(0.942034 usec) Vt(123.285 mm/usec) KE(3146.45 eV) 
+
+TOF(0.944992 usec) Vt(123.682 mm/usec) KE(3166.77 eV) 
+
+TOF(0.934228 usec) Vt(122.306 mm/usec) KE(3096.69 eV) 
+
+TOF(0.938155 usec) Vt(123.232 mm/usec) KE(3143.78 eV) 
+
+TOF(0.948627 usec) Vt(124.454 mm/usec) KE(3206.41 eV) 
+
+TOF(0.936583 usec) Vt(122.523 mm/usec) KE(3107.69 eV) 
+
+TOF(0.929504 usec) Vt(121.872 mm/usec) KE(3074.78 eV) 
+
+TOF(0.947348 usec) Vt(124.021 mm/usec) KE(3184.18 eV) 
+
+TOF(0.945898 usec) Vt(123.969 mm/usec) KE(3181.48 eV) 
+
+TOF(0.935506 usec) Vt(122.682 mm/usec) KE(3115.77 eV) 
+
+TOF(0.934981 usec) Vt(122.982 mm/usec) KE(3131.01 eV) 
+
+TOF(0.935872 usec) Vt(123.09 mm/usec) KE(3136.52 eV) 
+
+TOF(0.940864 usec) Vt(123.797 mm/usec) KE(3172.68 eV) 
+
+TOF(0.931376 usec) Vt(122.274 mm/usec) KE(3095.09 eV) 
+
+TOF(0.93294 usec) Vt(122.533 mm/usec) KE(3108.18 eV) 
+
+TOF(0.933639 usec) Vt(122.52 mm/usec) KE(3107.55 eV) 
+
+TOF(0.943518 usec) Vt(123.507 mm/usec) KE(3157.84 eV) 
+
+TOF(0.932194 usec) Vt(122.576 mm/usec) KE(3110.41 eV) 
+
+TOF(0.952224 usec) Vt(124.847 mm/usec) KE(3226.73 eV) 
+
+TOF(0.953751 usec) Vt(125.534 mm/usec) KE(3262.34 eV) 
+
+TOF(0.943611 usec) Vt(124.115 mm/usec) KE(3188.98 eV) 
+
+TOF(0.945593 usec) Vt(124.231 mm/usec) KE(3194.93 eV) 
+
+TOF(0.943842 usec) Vt(123.712 mm/usec) KE(3168.3 eV) 
+
+TOF(0.948234 usec) Vt(124.55 mm/usec) KE(3211.37 eV) 
+
+TOF(0.937654 usec) Vt(123.358 mm/usec) KE(3150.19 eV) 
+
+TOF(0.938429 usec) Vt(123.122 mm/usec) KE(3138.18 eV) 
+
+TOF(0.957959 usec) Vt(125.929 mm/usec) KE(3282.88 eV) 
+
+TOF(0.934638 usec) Vt(122.265 mm/usec) KE(3094.63 eV) 
+
+TOF(0.943602 usec) Vt(123.861 mm/usec) KE(3175.96 eV) 
+
+TOF(0.936676 usec) Vt(122.881 mm/usec) KE(3125.86 eV) 
+
+TOF(0.936387 usec) Vt(123.178 mm/usec) KE(3141.01 eV) 
+
+TOF(0.929804 usec) Vt(122.009 mm/usec) KE(3081.67 eV) 
+
+TOF(0.931242 usec) Vt(122.259 mm/usec) KE(3094.3 eV) 
+
+TOF(0.941308 usec) Vt(123.314 mm/usec) KE(3147.94 eV) 
+
+TOF(0.931458 usec) Vt(122.463 mm/usec) KE(3104.65 eV) 
+
+TOF(0.939078 usec) Vt(123.219 mm/usec) KE(3143.1 eV) 
+
+TOF(0.92285 usec) Vt(120.764 mm/usec) KE(3019.1 eV) 
+
+TOF(0.940078 usec) Vt(123.695 mm/usec) KE(3167.42 eV) 
+
+TOF(0.936927 usec) Vt(122.607 mm/usec) KE(3111.98 eV) 
+
+TOF(0.938621 usec) Vt(122.971 mm/usec) KE(3130.46 eV) 
+
+TOF(0.948769 usec) Vt(124.879 mm/usec) KE(3228.35 eV) 
+
+TOF(0.938124 usec) Vt(123.11 mm/usec) KE(3137.53 eV) 
+
+TOF(0.942296 usec) Vt(123.443 mm/usec) KE(3154.57 eV) 
+
+TOF(0.949229 usec) Vt(124.268 mm/usec) KE(3196.88 eV) 
+
+TOF(0.931341 usec) Vt(122.431 mm/usec) KE(3103.03 eV) 
+
+TOF(0.938027 usec) Vt(123.278 mm/usec) KE(3146.13 eV) 
+
+TOF(0.938773 usec) Vt(123.486 mm/usec) KE(3156.72 eV) 
+
+TOF(0.944736 usec) Vt(124.297 mm/usec) KE(3198.37 eV) 
+
+TOF(0.945582 usec) Vt(124.182 mm/usec) KE(3192.41 eV) 
+
+TOF(0.945934 usec) Vt(123.817 mm/usec) KE(3173.67 eV) 
+
+TOF(0.936779 usec) Vt(122.793 mm/usec) KE(3121.39 eV) 
+
+TOF(0.948097 usec) Vt(124.131 mm/usec) KE(3189.8 eV) 
+
+TOF(0.937671 usec) Vt(123.361 mm/usec) KE(3150.35 eV) 
+
+TOF(0.940677 usec) Vt(123.617 mm/usec) KE(3163.45 eV) 
+
+TOF(0.945052 usec) Vt(124.1 mm/usec) KE(3188.19 eV) 
+
+TOF(0.941851 usec) Vt(123.246 mm/usec) KE(3144.47 eV) 
+
+TOF(0.94838 usec) Vt(124.224 mm/usec) KE(3194.6 eV) 
+------ Begin Next Fly'm ------
+Running custom Workbench.lua
+
+
+ Begin Fly'm (Thu Jan  9 13:55:56 2025) 
+ Ions Flown Separately, Comp Quality(3) 
+ Number of Ions to Fly = 450 
+ Changes: Mass, Charge,   X,   Y,   Z,  KE,  Azm, Elv, Time of Birth 
+           NO     NO     YES  YES  NO   NO   YES  YES      NO  
+
+
+
+TOF(0.94015 usec) Vt(123.442 mm/usec) KE(3154.5 eV) 
+
+TOF(0.935289 usec) Vt(122.98 mm/usec) KE(3130.95 eV) 
+
+TOF(0.93343 usec) Vt(122.104 mm/usec) KE(3086.47 eV) 
+
+TOF(0.939161 usec) Vt(123.308 mm/usec) KE(3147.66 eV) 
+
+TOF(0.943852 usec) Vt(123.535 mm/usec) KE(3159.23 eV) 
+
+TOF(0.939167 usec) Vt(123.314 mm/usec) KE(3147.95 eV) 
+
+TOF(0.943655 usec) Vt(123.502 mm/usec) KE(3157.54 eV) 
+
+TOF(0.950832 usec) Vt(125.17 mm/usec) KE(3243.45 eV) 
+
+TOF(0.939148 usec) Vt(123.544 mm/usec) KE(3159.73 eV) 
+
+TOF(0.936525 usec) Vt(123.2 mm/usec) KE(3142.16 eV) 
+
+TOF(0.937908 usec) Vt(122.921 mm/usec) KE(3127.91 eV) 
+
+TOF(0.923479 usec) Vt(120.978 mm/usec) KE(3029.82 eV) 
+
+TOF(0.957538 usec) Vt(125.645 mm/usec) KE(3268.07 eV) 
+
+TOF(0.939819 usec) Vt(123.656 mm/usec) KE(3165.46 eV) 
+
+TOF(0.94524 usec) Vt(123.716 mm/usec) KE(3168.53 eV) 
+
+TOF(0.935166 usec) Vt(122.931 mm/usec) KE(3128.41 eV) 
+
+TOF(0.935279 usec) Vt(123.007 mm/usec) KE(3132.32 eV) 
+
+TOF(0.935201 usec) Vt(122.543 mm/usec) KE(3108.71 eV) 
+
+TOF(0.926946 usec) Vt(121.875 mm/usec) KE(3074.92 eV) 
+
+TOF(0.932863 usec) Vt(122.151 mm/usec) KE(3088.86 eV) 
+
+TOF(0.925311 usec) Vt(121.179 mm/usec) KE(3039.91 eV) 
+
+TOF(0.937557 usec) Vt(122.666 mm/usec) KE(3114.96 eV) 
+
+TOF(0.938607 usec) Vt(122.798 mm/usec) KE(3121.66 eV) 
+
+TOF(0.941036 usec) Vt(123.284 mm/usec) KE(3146.44 eV) 
+
+TOF(0.939594 usec) Vt(123.602 mm/usec) KE(3162.68 eV) 
+
+TOF(0.952234 usec) Vt(125.207 mm/usec) KE(3245.36 eV) 
+
+TOF(0.950368 usec) Vt(124.626 mm/usec) KE(3215.3 eV) 
+
+TOF(0.939554 usec) Vt(122.971 mm/usec) KE(3130.44 eV) 
+
+TOF(0.94194 usec) Vt(123.485 mm/usec) KE(3156.7 eV) 
+
+TOF(0.945907 usec) Vt(123.847 mm/usec) KE(3175.2 eV) 
+
+TOF(0.943145 usec) Vt(124.009 mm/usec) KE(3183.56 eV) 
+
+TOF(0.922406 usec) Vt(120.998 mm/usec) KE(3030.83 eV) 
+
+TOF(0.946414 usec) Vt(124.157 mm/usec) KE(3191.16 eV) 
+
+TOF(0.93721 usec) Vt(123.254 mm/usec) KE(3144.87 eV) 
+
+TOF(0.942431 usec) Vt(123.972 mm/usec) KE(3181.65 eV) 
+
+TOF(0.940716 usec) Vt(123.782 mm/usec) KE(3171.92 eV) 
+
+TOF(0.939302 usec) Vt(122.898 mm/usec) KE(3126.73 eV) 
+
+TOF(0.943059 usec) Vt(123.954 mm/usec) KE(3180.72 eV) 
+
+TOF(0.948725 usec) Vt(124.425 mm/usec) KE(3204.91 eV) 
+
+TOF(0.946527 usec) Vt(123.899 mm/usec) KE(3177.92 eV) 
+
+TOF(0.943221 usec) Vt(123.822 mm/usec) KE(3173.96 eV) 
+
+TOF(0.935542 usec) Vt(122.525 mm/usec) KE(3107.79 eV) 
+
+TOF(0.937296 usec) Vt(122.624 mm/usec) KE(3112.84 eV) 
+
+TOF(0.937509 usec) Vt(122.65 mm/usec) KE(3114.17 eV) 
+
+TOF(0.940182 usec) Vt(123.709 mm/usec) KE(3168.17 eV) 
+
+TOF(2.01625 usec) Vt(123.095 mm/usec) KE(3136.78 eV) 
+
+TOF(2.02045 usec) Vt(122.701 mm/usec) KE(3116.72 eV) 
+
+TOF(0.936773 usec) Vt(122.7 mm/usec) KE(3116.71 eV) 
+
+TOF(0.935533 usec) Vt(122.501 mm/usec) KE(3106.6 eV) 
+
+TOF(2.01708 usec) Vt(123.308 mm/usec) KE(3147.67 eV) 
+
+TOF(0.934871 usec) Vt(122.3 mm/usec) KE(3096.4 eV) 
+
+TOF(0.938384 usec) Vt(122.849 mm/usec) KE(3124.27 eV) 
+
+TOF(2.02194 usec) Vt(121.872 mm/usec) KE(3074.78 eV) 
+
+TOF(0.933927 usec) Vt(122.156 mm/usec) KE(3089.1 eV) 
+
+TOF(0.948682 usec) Vt(124.351 mm/usec) KE(3201.15 eV) 
+
+TOF(0.93858 usec) Vt(123.021 mm/usec) KE(3133.02 eV) 
+
+TOF(0.948671 usec) Vt(124.193 mm/usec) KE(3193 eV) 
+
+TOF(0.955094 usec) Vt(125.526 mm/usec) KE(3261.9 eV) 
+
+TOF(0.938665 usec) Vt(123.354 mm/usec) KE(3150.02 eV) 
+
+TOF(0.942457 usec) Vt(123.372 mm/usec) KE(3150.94 eV) 
+
+TOF(2.02103 usec) Vt(122.396 mm/usec) KE(3101.28 eV) 
+
+TOF(2.01706 usec) Vt(123.224 mm/usec) KE(3143.37 eV) 
+
+TOF(2.01817 usec) Vt(124.105 mm/usec) KE(3188.46 eV) 
+
+TOF(2.02008 usec) Vt(122.443 mm/usec) KE(3103.63 eV) 
+
+TOF(2.01748 usec) Vt(124.178 mm/usec) KE(3192.21 eV) 
+
+TOF(2.01683 usec) Vt(125.842 mm/usec) KE(3278.33 eV) 
+
+TOF(2.01939 usec) Vt(122.413 mm/usec) KE(3102.12 eV) 
+
+TOF(2.01939 usec) Vt(124.158 mm/usec) KE(3191.21 eV) 
+
+TOF(2.01845 usec) Vt(123.986 mm/usec) KE(3182.38 eV) 
+
+TOF(2.01716 usec) Vt(123.663 mm/usec) KE(3165.77 eV) 
+
+TOF(2.01627 usec) Vt(123.107 mm/usec) KE(3137.41 eV) 
+
+TOF(2.01598 usec) Vt(123.649 mm/usec) KE(3165.07 eV) 
+
+TOF(2.02052 usec) Vt(123.276 mm/usec) KE(3146.04 eV) 
+
+TOF(2.02146 usec) Vt(122.948 mm/usec) KE(3129.32 eV) 
+
+TOF(2.02037 usec) Vt(122.697 mm/usec) KE(3116.54 eV) 
+
+TOF(2.0195 usec) Vt(121.947 mm/usec) KE(3078.55 eV) 
+
+TOF(2.01951 usec) Vt(122.729 mm/usec) KE(3118.18 eV) 
+
+TOF(2.02325 usec) Vt(121.767 mm/usec) KE(3069.45 eV) 
+
+TOF(2.01641 usec) Vt(123.655 mm/usec) KE(3165.41 eV) 
+
+TOF(2.02023 usec) Vt(122.983 mm/usec) KE(3131.09 eV) 
+
+TOF(2.01698 usec) Vt(123.357 mm/usec) KE(3150.15 eV) 
+
+TOF(2.02149 usec) Vt(121.245 mm/usec) KE(3043.2 eV) 
+
+TOF(2.023 usec) Vt(121.694 mm/usec) KE(3065.78 eV) 
+
+TOF(2.015 usec) Vt(123.934 mm/usec) KE(3179.69 eV) 
+
+TOF(2.01801 usec) Vt(122.142 mm/usec) KE(3088.4 eV) 
+
+TOF(2.01665 usec) Vt(123.788 mm/usec) KE(3172.22 eV) 
+
+TOF(2.01943 usec) Vt(124.232 mm/usec) KE(3194.98 eV) 
+
+TOF(2.01544 usec) Vt(123.602 mm/usec) KE(3162.66 eV) 
+
+TOF(2.0221 usec) Vt(122.188 mm/usec) KE(3090.7 eV) 
+
+TOF(2.01697 usec) Vt(124.51 mm/usec) KE(3209.33 eV) 
+
+TOF(2.01808 usec) Vt(123.203 mm/usec) KE(3142.31 eV) 
+
+TOF(2.02106 usec) Vt(122.734 mm/usec) KE(3118.4 eV) 
+
+TOF(2.01989 usec) Vt(121.219 mm/usec) KE(3041.9 eV) 
+
+TOF(2.01687 usec) Vt(123.135 mm/usec) KE(3138.84 eV) 
+
+TOF(2.02111 usec) Vt(121.731 mm/usec) KE(3067.67 eV) 
+
+TOF(2.0131 usec) Vt(125.336 mm/usec) KE(3252.05 eV) 
+
+TOF(2.01976 usec) Vt(122.117 mm/usec) KE(3087.11 eV) 
+
+TOF(2.01792 usec) Vt(122.672 mm/usec) KE(3115.25 eV) 
+
+TOF(2.01903 usec) Vt(122.32 mm/usec) KE(3097.39 eV) 
+
+TOF(2.0211 usec) Vt(123.036 mm/usec) KE(3133.79 eV) 
+
+TOF(2.01939 usec) Vt(123.759 mm/usec) KE(3170.71 eV) 
+
+TOF(2.01829 usec) Vt(123.758 mm/usec) KE(3170.67 eV) 
+
+TOF(2.01766 usec) Vt(124.675 mm/usec) KE(3217.81 eV) 
+
+TOF(2.01441 usec) Vt(124.611 mm/usec) KE(3214.5 eV) 
+
+TOF(2.0197 usec) Vt(122.708 mm/usec) KE(3117.08 eV) 
+
+TOF(2.01888 usec) Vt(122.595 mm/usec) KE(3111.35 eV) 
+
+TOF(2.0202 usec) Vt(122.672 mm/usec) KE(3115.28 eV) 
+
+TOF(2.02268 usec) Vt(121.943 mm/usec) KE(3078.35 eV) 
+
+TOF(2.0161 usec) Vt(123.179 mm/usec) KE(3141.05 eV) 
+
+TOF(2.0181 usec) Vt(124.231 mm/usec) KE(3194.93 eV) 
+
+TOF(2.01554 usec) Vt(123.582 mm/usec) KE(3161.63 eV) 
+
+TOF(2.01747 usec) Vt(124.026 mm/usec) KE(3184.43 eV) 
+
+TOF(2.01965 usec) Vt(123.236 mm/usec) KE(3143.96 eV) 
+
+TOF(2.01812 usec) Vt(122.706 mm/usec) KE(3117.01 eV) 
+
+TOF(2.01948 usec) Vt(123.461 mm/usec) KE(3155.45 eV) 
+
+TOF(2.01757 usec) Vt(123.381 mm/usec) KE(3151.38 eV) 
+
+TOF(2.01548 usec) Vt(124.285 mm/usec) KE(3197.73 eV) 
+
+TOF(2.01991 usec) Vt(122.517 mm/usec) KE(3107.4 eV) 
+
+TOF(2.01745 usec) Vt(125.273 mm/usec) KE(3248.79 eV) 
+
+TOF(2.02125 usec) Vt(123.076 mm/usec) KE(3135.84 eV) 
+
+TOF(2.02052 usec) Vt(123.24 mm/usec) KE(3144.16 eV) 
+
+TOF(2.01717 usec) Vt(124.026 mm/usec) KE(3184.4 eV) 
+
+TOF(2.01744 usec) Vt(122.34 mm/usec) KE(3098.44 eV) 
+
+TOF(2.02139 usec) Vt(122.984 mm/usec) KE(3131.12 eV) 
+
+TOF(2.01587 usec) Vt(123.439 mm/usec) KE(3154.37 eV) 
+
+TOF(2.01867 usec) Vt(122.988 mm/usec) KE(3131.32 eV) 
+
+TOF(2.01855 usec) Vt(123.683 mm/usec) KE(3166.84 eV) 
+
+TOF(2.01559 usec) Vt(124.536 mm/usec) KE(3210.68 eV) 
+
+TOF(2.01672 usec) Vt(123.999 mm/usec) KE(3183.03 eV) 
+
+TOF(2.01973 usec) Vt(123.565 mm/usec) KE(3160.77 eV) 
+
+TOF(2.01557 usec) Vt(124.96 mm/usec) KE(3232.53 eV) 
+
+TOF(2.01746 usec) Vt(122.337 mm/usec) KE(3098.29 eV) 
+
+TOF(2.01979 usec) Vt(122.41 mm/usec) KE(3101.95 eV) 
+
+TOF(2.01664 usec) Vt(123.145 mm/usec) KE(3139.31 eV) 
+
+TOF(2.01519 usec) Vt(124.369 mm/usec) KE(3202.07 eV) 
+
+TOF(2.01785 usec) Vt(122.682 mm/usec) KE(3115.8 eV) 
+
+TOF(2.01587 usec) Vt(124.025 mm/usec) KE(3184.35 eV) 
+
+TOF(2.01533 usec) Vt(123.742 mm/usec) KE(3169.85 eV) 
+
+TOF(2.01683 usec) Vt(123.4 mm/usec) KE(3152.37 eV) 
+
+TOF(2.01578 usec) Vt(124.214 mm/usec) KE(3194.07 eV) 
+
+TOF(2.0196 usec) Vt(123.391 mm/usec) KE(3151.9 eV) 
+
+TOF(2.01533 usec) Vt(123.694 mm/usec) KE(3167.39 eV) 
+
+TOF(2.0211 usec) Vt(123.169 mm/usec) KE(3140.57 eV) 
+
+TOF(2.01599 usec) Vt(124.489 mm/usec) KE(3208.25 eV) 
+
+TOF(2.01883 usec) Vt(124.71 mm/usec) KE(3219.65 eV) 
+
+TOF(2.01663 usec) Vt(124.838 mm/usec) KE(3226.23 eV) 
+
+TOF(2.01878 usec) Vt(124.711 mm/usec) KE(3219.7 eV) 
+
+TOF(2.02038 usec) Vt(123 mm/usec) KE(3131.96 eV) 
+
+TOF(2.01764 usec) Vt(122.295 mm/usec) KE(3096.13 eV) 
+
+TOF(2.017 usec) Vt(122.958 mm/usec) KE(3129.78 eV) 
+
+TOF(2.01528 usec) Vt(123.709 mm/usec) KE(3168.14 eV) 
+
+TOF(2.01935 usec) Vt(123.46 mm/usec) KE(3155.43 eV) 
+
+TOF(2.0201 usec) Vt(123.701 mm/usec) KE(3167.75 eV) 
+
+TOF(2.02281 usec) Vt(121.923 mm/usec) KE(3077.36 eV) 
+
+TOF(2.01696 usec) Vt(123.188 mm/usec) KE(3141.54 eV) 
+
+TOF(2.01787 usec) Vt(123.369 mm/usec) KE(3150.75 eV) 
+
+TOF(2.01623 usec) Vt(125.296 mm/usec) KE(3249.95 eV) 
+
+TOF(2.01992 usec) Vt(122.884 mm/usec) KE(3126.02 eV) 
+
+TOF(2.02099 usec) Vt(123.213 mm/usec) KE(3142.79 eV) 
+
+TOF(2.02224 usec) Vt(121.594 mm/usec) KE(3060.78 eV) 
+
+TOF(2.01674 usec) Vt(123.022 mm/usec) KE(3133.09 eV) 
+
+TOF(2.01415 usec) Vt(125.36 mm/usec) KE(3253.31 eV) 
+
+TOF(2.01654 usec) Vt(123.846 mm/usec) KE(3175.19 eV) 
+
+TOF(2.02162 usec) Vt(122.655 mm/usec) KE(3114.4 eV) 
+
+TOF(2.02001 usec) Vt(122.502 mm/usec) KE(3106.65 eV) 
+
+TOF(2.01934 usec) Vt(124.178 mm/usec) KE(3192.23 eV) 
+
+TOF(2.0171 usec) Vt(122.906 mm/usec) KE(3127.18 eV) 
+
+TOF(2.0226 usec) Vt(122.07 mm/usec) KE(3084.74 eV) 
+
+TOF(2.01513 usec) Vt(123.836 mm/usec) KE(3174.65 eV) 
+
+TOF(2.01864 usec) Vt(124.822 mm/usec) KE(3225.44 eV) 
+
+TOF(2.02013 usec) Vt(122.292 mm/usec) KE(3095.99 eV) 
+
+TOF(2.02041 usec) Vt(123.497 mm/usec) KE(3157.3 eV) 
+
+TOF(2.02245 usec) Vt(122.134 mm/usec) KE(3087.99 eV) 
+
+TOF(2.02181 usec) Vt(122.569 mm/usec) KE(3110.03 eV) 
+
+TOF(2.01818 usec) Vt(122.404 mm/usec) KE(3101.65 eV) 
+
+TOF(2.01958 usec) Vt(123.551 mm/usec) KE(3160.07 eV) 
+
+TOF(2.02267 usec) Vt(121.595 mm/usec) KE(3060.79 eV) 
+
+TOF(2.01877 usec) Vt(123.113 mm/usec) KE(3137.72 eV) 
+
+TOF(2.0187 usec) Vt(121.975 mm/usec) KE(3079.97 eV) 
+
+TOF(2.01787 usec) Vt(124.473 mm/usec) KE(3207.38 eV) 
+
+TOF(2.01988 usec) Vt(122.735 mm/usec) KE(3118.45 eV) 
+
+TOF(2.01718 usec) Vt(123.632 mm/usec) KE(3164.21 eV) 
+
+TOF(2.01601 usec) Vt(123.239 mm/usec) KE(3144.15 eV) 
+
+TOF(2.02304 usec) Vt(121.755 mm/usec) KE(3068.85 eV) 
+
+TOF(2.01933 usec) Vt(123.522 mm/usec) KE(3158.57 eV) 
+
+TOF(2.01776 usec) Vt(122.225 mm/usec) KE(3092.62 eV) 
+
+TOF(2.01637 usec) Vt(123.272 mm/usec) KE(3145.82 eV) 
+
+TOF(2.01757 usec) Vt(122.69 mm/usec) KE(3116.2 eV) 
+
+TOF(2.02323 usec) Vt(121.598 mm/usec) KE(3060.93 eV) 
+
+TOF(2.01853 usec) Vt(123.791 mm/usec) KE(3172.36 eV) 
+
+TOF(2.01996 usec) Vt(121.99 mm/usec) KE(3080.74 eV) 
+
+TOF(2.02027 usec) Vt(122.5 mm/usec) KE(3106.54 eV) 
+
+TOF(2.01482 usec) Vt(124.281 mm/usec) KE(3197.49 eV) 
+
+TOF(2.01833 usec) Vt(122.161 mm/usec) KE(3089.38 eV) 
+
+TOF(2.01909 usec) Vt(123.361 mm/usec) KE(3150.35 eV) 
+
+TOF(2.0156 usec) Vt(124.07 mm/usec) KE(3186.66 eV) 
+
+TOF(2.01705 usec) Vt(122.573 mm/usec) KE(3110.25 eV) 
+
+TOF(2.02176 usec) Vt(122.722 mm/usec) KE(3117.79 eV) 
+
+TOF(2.01838 usec) Vt(123.151 mm/usec) KE(3139.64 eV) 
+
+TOF(2.0186 usec) Vt(123.832 mm/usec) KE(3174.45 eV) 
+
+TOF(2.02074 usec) Vt(122.953 mm/usec) KE(3129.55 eV) 
+
+TOF(2.01641 usec) Vt(123.101 mm/usec) KE(3137.08 eV) 
+
+TOF(2.01969 usec) Vt(123.16 mm/usec) KE(3140.1 eV) 
+
+TOF(2.02001 usec) Vt(123.39 mm/usec) KE(3151.82 eV) 
+
+TOF(2.02 usec) Vt(123.108 mm/usec) KE(3137.45 eV) 
+
+TOF(2.02166 usec) Vt(122.82 mm/usec) KE(3122.81 eV) 
+
+TOF(2.01961 usec) Vt(123.432 mm/usec) KE(3153.98 eV) 
+
+TOF(2.01621 usec) Vt(123.992 mm/usec) KE(3182.66 eV) 
+
+TOF(2.01426 usec) Vt(124.625 mm/usec) KE(3215.22 eV) 
+
+TOF(2.01899 usec) Vt(123.195 mm/usec) KE(3141.87 eV) 
+
+TOF(2.02125 usec) Vt(122.931 mm/usec) KE(3128.43 eV) 
+
+TOF(2.01543 usec) Vt(124.887 mm/usec) KE(3228.79 eV) 
+
+TOF(2.02112 usec) Vt(122.791 mm/usec) KE(3121.3 eV) 
+
+TOF(2.01732 usec) Vt(123.03 mm/usec) KE(3133.49 eV) 
+
+TOF(2.01604 usec) Vt(123.427 mm/usec) KE(3153.71 eV) 
+
+TOF(2.02072 usec) Vt(123.047 mm/usec) KE(3134.34 eV) 
+
+TOF(2.02197 usec) Vt(122.226 mm/usec) KE(3092.63 eV) 
+
+TOF(2.01663 usec) Vt(123.113 mm/usec) KE(3137.7 eV) 
+
+TOF(2.01789 usec) Vt(123.061 mm/usec) KE(3135.06 eV) 
+
+TOF(2.01772 usec) Vt(124.811 mm/usec) KE(3224.86 eV) 
+
+TOF(2.01812 usec) Vt(122.862 mm/usec) KE(3124.93 eV) 
+
+TOF(2.01817 usec) Vt(123.43 mm/usec) KE(3153.88 eV) 
+
+TOF(2.0219 usec) Vt(122.645 mm/usec) KE(3113.87 eV) 
+
+TOF(2.0212 usec) Vt(122.65 mm/usec) KE(3114.14 eV) 
+
+TOF(2.01827 usec) Vt(124.691 mm/usec) KE(3218.63 eV) 
+
+TOF(2.02041 usec) Vt(123.139 mm/usec) KE(3139.02 eV) 
+
+TOF(2.01862 usec) Vt(123.621 mm/usec) KE(3163.63 eV) 
+
+TOF(2.01931 usec) Vt(124.211 mm/usec) KE(3193.92 eV) 
+
+TOF(2.01665 usec) Vt(124.208 mm/usec) KE(3193.76 eV) 
+
+TOF(2.0207 usec) Vt(123.105 mm/usec) KE(3137.27 eV) 
+
+TOF(2.02074 usec) Vt(123.309 mm/usec) KE(3147.71 eV) 
+
+TOF(2.01662 usec) Vt(123.045 mm/usec) KE(3134.24 eV) 
+
+TOF(2.01389 usec) Vt(124.766 mm/usec) KE(3222.5 eV) 
+
+TOF(2.0158 usec) Vt(123.888 mm/usec) KE(3177.32 eV) 
+
+TOF(2.01654 usec) Vt(123.606 mm/usec) KE(3162.9 eV) 
+
+TOF(2.01771 usec) Vt(124.052 mm/usec) KE(3185.77 eV) 
+
+TOF(2.01874 usec) Vt(122.35 mm/usec) KE(3098.94 eV) 
+
+TOF(2.02003 usec) Vt(123.782 mm/usec) KE(3171.9 eV) 
+
+TOF(2.01562 usec) Vt(124.141 mm/usec) KE(3190.33 eV) 
+
+TOF(2.02255 usec) Vt(122.239 mm/usec) KE(3093.32 eV) 
+
+TOF(2.02039 usec) Vt(122.726 mm/usec) KE(3118 eV) 
+
+TOF(2.01676 usec) Vt(123.024 mm/usec) KE(3133.18 eV) 
+
+TOF(2.01896 usec) Vt(122.73 mm/usec) KE(3118.21 eV) 
+
+TOF(2.01911 usec) Vt(123.53 mm/usec) KE(3158.99 eV) 
+
+TOF(2.01668 usec) Vt(123.246 mm/usec) KE(3144.5 eV) 
+
+TOF(2.02072 usec) Vt(122.922 mm/usec) KE(3127.96 eV) 
+
+TOF(2.0157 usec) Vt(123.725 mm/usec) KE(3168.98 eV) 
+
+TOF(2.0194 usec) Vt(123.804 mm/usec) KE(3173 eV) 
+
+TOF(2.015 usec) Vt(123.995 mm/usec) KE(3182.84 eV) 
+
+TOF(2.01779 usec) Vt(123.714 mm/usec) KE(3168.39 eV) 
+
+TOF(2.01862 usec) Vt(121.923 mm/usec) KE(3077.35 eV) 
+
+TOF(2.02008 usec) Vt(123.848 mm/usec) KE(3175.29 eV) 
+
+TOF(2.01745 usec) Vt(122.949 mm/usec) KE(3129.37 eV) 
+
+TOF(2.01875 usec) Vt(122.462 mm/usec) KE(3104.63 eV) 
+
+TOF(2.01705 usec) Vt(125.28 mm/usec) KE(3249.12 eV) 
+
+TOF(2.01841 usec) Vt(123.856 mm/usec) KE(3175.69 eV) 
+
+TOF(2.02217 usec) Vt(122.485 mm/usec) KE(3105.78 eV) 
+
+TOF(2.01825 usec) Vt(123.436 mm/usec) KE(3154.2 eV) 
+
+TOF(2.01967 usec) Vt(121.813 mm/usec) KE(3071.8 eV) 
+
+TOF(2.01633 usec) Vt(123.022 mm/usec) KE(3133.07 eV) 
+
+TOF(2.01683 usec) Vt(124.137 mm/usec) KE(3190.12 eV) 
+
+TOF(2.01988 usec) Vt(122.191 mm/usec) KE(3090.89 eV) 
+
+TOF(2.01489 usec) Vt(123.981 mm/usec) KE(3182.1 eV) 
+
+TOF(2.02016 usec) Vt(123.541 mm/usec) KE(3159.54 eV) 
+
+TOF(2.02035 usec) Vt(123.585 mm/usec) KE(3161.83 eV) 
+
+TOF(2.01492 usec) Vt(123.962 mm/usec) KE(3181.11 eV) 
+
+TOF(2.01746 usec) Vt(122.709 mm/usec) KE(3117.13 eV) 
+
+TOF(2.01618 usec) Vt(123.326 mm/usec) KE(3148.59 eV) 
+
+TOF(2.01744 usec) Vt(122.563 mm/usec) KE(3109.75 eV) 
+
+TOF(2.01994 usec) Vt(122.936 mm/usec) KE(3128.67 eV) 
+
+TOF(2.01686 usec) Vt(124.157 mm/usec) KE(3191.16 eV) 
+
+TOF(2.0136 usec) Vt(125.708 mm/usec) KE(3271.36 eV) 
+
+TOF(2.01699 usec) Vt(122.809 mm/usec) KE(3122.25 eV) 
+
+TOF(2.01972 usec) Vt(123.403 mm/usec) KE(3152.51 eV) 
+
+TOF(2.01542 usec) Vt(123.902 mm/usec) KE(3178.05 eV) 
+
+TOF(2.01801 usec) Vt(123.454 mm/usec) KE(3155.12 eV) 
+
+TOF(2.01842 usec) Vt(122.6 mm/usec) KE(3111.58 eV) 
+
+TOF(2.01877 usec) Vt(123.755 mm/usec) KE(3170.5 eV) 
+
+TOF(2.01656 usec) Vt(125.153 mm/usec) KE(3242.56 eV) 
+
+TOF(2.01702 usec) Vt(125.432 mm/usec) KE(3257.02 eV) 
+
+TOF(2.01939 usec) Vt(122.975 mm/usec) KE(3130.65 eV) 
+
+TOF(2.01653 usec) Vt(124.68 mm/usec) KE(3218.09 eV) 
+
+TOF(2.01842 usec) Vt(122.868 mm/usec) KE(3125.22 eV) 
+
+TOF(2.01941 usec) Vt(123.262 mm/usec) KE(3145.31 eV) 
+
+TOF(2.01623 usec) Vt(124.487 mm/usec) KE(3208.13 eV) 
+
+TOF(2.01883 usec) Vt(123.903 mm/usec) KE(3178.09 eV) 
+
+TOF(2.01514 usec) Vt(123.832 mm/usec) KE(3174.45 eV) 
+
+TOF(2.0184 usec) Vt(124.918 mm/usec) KE(3230.39 eV) 
+
+TOF(2.01773 usec) Vt(124.011 mm/usec) KE(3183.66 eV) 
+
+TOF(2.01651 usec) Vt(122.942 mm/usec) KE(3128.99 eV) 
+
+TOF(2.02148 usec) Vt(122.916 mm/usec) KE(3127.65 eV) 
+
+TOF(2.01498 usec) Vt(123.927 mm/usec) KE(3179.33 eV) 
+
+TOF(2.021 usec) Vt(123.217 mm/usec) KE(3142.99 eV) 
+
+TOF(2.01686 usec) Vt(124.541 mm/usec) KE(3210.92 eV) 
+
+TOF(2.01975 usec) Vt(123.943 mm/usec) KE(3180.15 eV) 
+
+TOF(2.01796 usec) Vt(122.05 mm/usec) KE(3083.74 eV) 
+
+TOF(2.01743 usec) Vt(122.669 mm/usec) KE(3115.11 eV) 
+
+TOF(2.02182 usec) Vt(121.958 mm/usec) KE(3079.11 eV) 
+
+TOF(2.01715 usec) Vt(123.473 mm/usec) KE(3156.1 eV) 
+
+TOF(2.01924 usec) Vt(123.387 mm/usec) KE(3151.71 eV) 
+
+TOF(2.02141 usec) Vt(122.911 mm/usec) KE(3127.43 eV) 
+
+TOF(2.01881 usec) Vt(124.336 mm/usec) KE(3200.37 eV) 
+
+TOF(2.02267 usec) Vt(122.131 mm/usec) KE(3087.84 eV) 
+
+TOF(2.01434 usec) Vt(124.669 mm/usec) KE(3217.5 eV) 
+
+TOF(2.01771 usec) Vt(123.008 mm/usec) KE(3132.36 eV) 
+
+TOF(2.01573 usec) Vt(123.48 mm/usec) KE(3156.43 eV) 
+
+TOF(2.01811 usec) Vt(125.166 mm/usec) KE(3243.23 eV) 
+
+TOF(2.0155 usec) Vt(123.696 mm/usec) KE(3167.49 eV) 
+
+TOF(2.02165 usec) Vt(122.304 mm/usec) KE(3096.6 eV) 
+
+TOF(2.02187 usec) Vt(122.611 mm/usec) KE(3112.17 eV) 
+
+TOF(2.01616 usec) Vt(123.134 mm/usec) KE(3138.75 eV) 
+
+TOF(2.01976 usec) Vt(122.079 mm/usec) KE(3085.19 eV) 
+
+TOF(2.02368 usec) Vt(121.617 mm/usec) KE(3061.92 eV) 
+
+TOF(2.01617 usec) Vt(125.503 mm/usec) KE(3260.72 eV) 
+
+TOF(2.01762 usec) Vt(122.324 mm/usec) KE(3097.59 eV) 
+
+TOF(2.01723 usec) Vt(124.965 mm/usec) KE(3232.8 eV) 
+
+TOF(2.01705 usec) Vt(123.629 mm/usec) KE(3164.05 eV) 
+
+TOF(2.017 usec) Vt(124.25 mm/usec) KE(3195.91 eV) 
+
+TOF(2.02195 usec) Vt(122.238 mm/usec) KE(3093.24 eV) 
+
+TOF(2.02116 usec) Vt(122.856 mm/usec) KE(3124.63 eV) 
+
+TOF(2.02285 usec) Vt(122.1 mm/usec) KE(3086.29 eV) 
+
+TOF(2.01598 usec) Vt(124.165 mm/usec) KE(3191.54 eV) 
+
+TOF(2.01847 usec) Vt(123.038 mm/usec) KE(3133.88 eV) 
+
+TOF(2.01914 usec) Vt(122.434 mm/usec) KE(3103.2 eV) 
+
+TOF(2.02034 usec) Vt(123.172 mm/usec) KE(3140.72 eV) 
+
+TOF(2.01738 usec) Vt(122.574 mm/usec) KE(3110.31 eV) 
+
+TOF(2.02258 usec) Vt(122.167 mm/usec) KE(3089.64 eV) 
+
+TOF(2.02089 usec) Vt(122.357 mm/usec) KE(3099.29 eV) 
+
+TOF(2.01809 usec) Vt(124.901 mm/usec) KE(3229.53 eV) 
+
+TOF(2.02123 usec) Vt(123.043 mm/usec) KE(3134.13 eV) 
+
+TOF(2.0174 usec) Vt(122.368 mm/usec) KE(3099.87 eV) 
+
+TOF(2.02127 usec) Vt(123.023 mm/usec) KE(3133.11 eV) 
+
+TOF(2.02171 usec) Vt(122.339 mm/usec) KE(3098.37 eV) 
+
+TOF(2.0168 usec) Vt(122.891 mm/usec) KE(3126.38 eV) 
+
+TOF(2.01904 usec) Vt(122.651 mm/usec) KE(3114.18 eV) 
+
+TOF(2.01573 usec) Vt(123.419 mm/usec) KE(3153.31 eV) 
+
+TOF(2.02015 usec) Vt(123.408 mm/usec) KE(3152.75 eV) 
+
+TOF(2.01558 usec) Vt(124.333 mm/usec) KE(3200.19 eV) 
+
+TOF(2.01685 usec) Vt(124.826 mm/usec) KE(3225.62 eV) 
+
+TOF(2.01975 usec) Vt(123.713 mm/usec) KE(3168.35 eV) 
+
+TOF(2.01796 usec) Vt(124.749 mm/usec) KE(3221.64 eV) 
+
+TOF(2.01844 usec) Vt(121.793 mm/usec) KE(3070.78 eV) 
+
+TOF(2.01916 usec) Vt(122.823 mm/usec) KE(3122.91 eV) 
+
+TOF(2.0198 usec) Vt(122.132 mm/usec) KE(3087.88 eV) 
+
+TOF(2.01665 usec) Vt(123.26 mm/usec) KE(3145.18 eV) 
+
+TOF(2.01721 usec) Vt(122.562 mm/usec) KE(3109.69 eV) 
+
+TOF(2.01782 usec) Vt(122.304 mm/usec) KE(3096.59 eV) 
+
+TOF(2.01512 usec) Vt(123.966 mm/usec) KE(3181.32 eV) 
+
+TOF(2.01455 usec) Vt(124.497 mm/usec) KE(3208.66 eV) 
+
+TOF(2.01697 usec) Vt(122.964 mm/usec) KE(3130.09 eV) 
+
+TOF(2.023 usec) Vt(121.324 mm/usec) KE(3047.18 eV) 
+
+TOF(2.01987 usec) Vt(123.825 mm/usec) KE(3174.12 eV) 
+
+TOF(2.0171 usec) Vt(124.28 mm/usec) KE(3197.45 eV) 
+
+TOF(2.01851 usec) Vt(124.2 mm/usec) KE(3193.37 eV) 
+
+TOF(2.01697 usec) Vt(124.161 mm/usec) KE(3191.36 eV) 
+
+TOF(2.02041 usec) Vt(123.157 mm/usec) KE(3139.96 eV) 
+
+TOF(2.01509 usec) Vt(124.213 mm/usec) KE(3194 eV) 
+
+TOF(2.01537 usec) Vt(124.668 mm/usec) KE(3217.45 eV) 
+
+TOF(2.02088 usec) Vt(122.675 mm/usec) KE(3115.42 eV) 
+
+TOF(2.01735 usec) Vt(122.966 mm/usec) KE(3130.22 eV) 
+
+TOF(2.01429 usec) Vt(124.438 mm/usec) KE(3205.61 eV) 
+
+TOF(2.02055 usec) Vt(122.691 mm/usec) KE(3116.23 eV) 
+
+TOF(2.01506 usec) Vt(123.939 mm/usec) KE(3179.97 eV) 
+
+TOF(2.01651 usec) Vt(122.929 mm/usec) KE(3128.32 eV) 
+
+TOF(2.01985 usec) Vt(123.858 mm/usec) KE(3175.81 eV) 
+
+TOF(2.02071 usec) Vt(123.388 mm/usec) KE(3151.71 eV) 
+
+TOF(2.01466 usec) Vt(124.319 mm/usec) KE(3199.48 eV) 
+
+TOF(2.01649 usec) Vt(125.106 mm/usec) KE(3240.11 eV) 
+
+TOF(2.01841 usec) Vt(123.671 mm/usec) KE(3166.18 eV) 
+
+TOF(2.02034 usec) Vt(122.47 mm/usec) KE(3105.01 eV) 
+
+TOF(2.01982 usec) Vt(122.713 mm/usec) KE(3117.35 eV) 
+
+TOF(2.01487 usec) Vt(123.991 mm/usec) KE(3182.63 eV) 
+
+TOF(2.01595 usec) Vt(123.778 mm/usec) KE(3171.67 eV) 
+
+TOF(2.0197 usec) Vt(124.096 mm/usec) KE(3188 eV) 
+
+TOF(2.02247 usec) Vt(120.899 mm/usec) KE(3025.88 eV) 
+
+TOF(2.01948 usec) Vt(122.894 mm/usec) KE(3126.54 eV) 
+
+TOF(2.01921 usec) Vt(124.463 mm/usec) KE(3206.89 eV) 
+
+TOF(2.01537 usec) Vt(123.669 mm/usec) KE(3166.1 eV) 
+
+TOF(0.938788 usec) Vt(123.342 mm/usec) KE(3149.38 eV) 
+
+TOF(0.944902 usec) Vt(123.885 mm/usec) KE(3177.19 eV) 
+
+TOF(0.934303 usec) Vt(122.561 mm/usec) KE(3109.62 eV) 
+
+TOF(0.955399 usec) Vt(125.131 mm/usec) KE(3241.4 eV) 
+
+TOF(0.954053 usec) Vt(125.11 mm/usec) KE(3240.34 eV) 
+
+TOF(2.02213 usec) Vt(122.123 mm/usec) KE(3087.43 eV) 
+
+TOF(0.943353 usec) Vt(123.484 mm/usec) KE(3156.63 eV) 
+
+TOF(0.943501 usec) Vt(123.985 mm/usec) KE(3182.33 eV) 
+
+TOF(2.01902 usec) Vt(124.027 mm/usec) KE(3184.48 eV) 
+
+TOF(2.01553 usec) Vt(123.914 mm/usec) KE(3178.64 eV) 
+
+TOF(0.949573 usec) Vt(124.351 mm/usec) KE(3201.12 eV) 
+
+TOF(2.01784 usec) Vt(122.112 mm/usec) KE(3086.9 eV) 
+
+TOF(0.937779 usec) Vt(123.241 mm/usec) KE(3144.22 eV) 
+
+TOF(0.940896 usec) Vt(123.8 mm/usec) KE(3172.82 eV) 
+
+TOF(0.94611 usec) Vt(124.036 mm/usec) KE(3184.92 eV) 
+
+TOF(0.945641 usec) Vt(123.786 mm/usec) KE(3172.09 eV) 
+
+TOF(0.95346 usec) Vt(124.871 mm/usec) KE(3227.93 eV) 
+
+TOF(0.946318 usec) Vt(124.537 mm/usec) KE(3210.7 eV) 
+
+TOF(0.933279 usec) Vt(122.655 mm/usec) KE(3114.37 eV) 
+
+TOF(0.957569 usec) Vt(125.432 mm/usec) KE(3257.01 eV) 
+
+TOF(0.925407 usec) Vt(121.661 mm/usec) KE(3064.11 eV) 
+
+TOF(0.948497 usec) Vt(124.661 mm/usec) KE(3217.13 eV) 
+
+TOF(0.955872 usec) Vt(125.342 mm/usec) KE(3252.32 eV) 
+
+TOF(0.941425 usec) Vt(123.187 mm/usec) KE(3141.46 eV) 
+
+TOF(0.936496 usec) Vt(123.151 mm/usec) KE(3139.64 eV) 
+
+TOF(0.943475 usec) Vt(123.631 mm/usec) KE(3164.18 eV) 
+
+TOF(0.9465 usec) Vt(124.56 mm/usec) KE(3211.9 eV) 
+
+TOF(0.933571 usec) Vt(122.305 mm/usec) KE(3096.65 eV) 
+
+TOF(0.932631 usec) Vt(122.662 mm/usec) KE(3114.73 eV) 
+
+TOF(0.940367 usec) Vt(123.113 mm/usec) KE(3137.73 eV) 
+
+TOF(0.939769 usec) Vt(123.651 mm/usec) KE(3165.19 eV) 
+
+TOF(0.938441 usec) Vt(122.787 mm/usec) KE(3121.13 eV) 
+
+TOF(0.94492 usec) Vt(123.743 mm/usec) KE(3169.91 eV) 
+
+TOF(0.944922 usec) Vt(124.054 mm/usec) KE(3185.82 eV) 
+
+TOF(0.941828 usec) Vt(123.93 mm/usec) KE(3179.5 eV) 
+
+TOF(0.945482 usec) Vt(123.924 mm/usec) KE(3179.15 eV) 
+
+TOF(0.93149 usec) Vt(122.406 mm/usec) KE(3101.76 eV) 
+
+TOF(0.945703 usec) Vt(124.313 mm/usec) KE(3199.17 eV) 
+
+TOF(0.940607 usec) Vt(123.412 mm/usec) KE(3152.95 eV) 
+
+TOF(0.951908 usec) Vt(125.301 mm/usec) KE(3250.22 eV) 
+
+TOF(0.946358 usec) Vt(124.085 mm/usec) KE(3187.46 eV) 
+
+TOF(0.94494 usec) Vt(123.792 mm/usec) KE(3172.38 eV) 
+
+TOF(0.934389 usec) Vt(122.627 mm/usec) KE(3112.98 eV) 
+
+TOF(0.942468 usec) Vt(123.562 mm/usec) KE(3160.63 eV) 
+
+TOF(0.930498 usec) Vt(121.931 mm/usec) KE(3077.73 eV) 
+
+TOF(0.952085 usec) Vt(124.84 mm/usec) KE(3226.37 eV) 
+
+TOF(0.941574 usec) Vt(123.846 mm/usec) KE(3175.19 eV) 
+
+TOF(0.941168 usec) Vt(123.401 mm/usec) KE(3152.42 eV) 
+
+TOF(0.930757 usec) Vt(122.097 mm/usec) KE(3086.15 eV) 
+
+TOF(0.939575 usec) Vt(123.231 mm/usec) KE(3143.72 eV) 
+
+TOF(0.938232 usec) Vt(122.745 mm/usec) KE(3119 eV) 
+
+TOF(0.924442 usec) Vt(121.523 mm/usec) KE(3057.18 eV) 
+
+TOF(0.947689 usec) Vt(124.096 mm/usec) KE(3188.01 eV) 
+
+TOF(0.932377 usec) Vt(121.941 mm/usec) KE(3078.26 eV) 
+
+TOF(0.947492 usec) Vt(124.206 mm/usec) KE(3193.67 eV) 
+
+TOF(0.940592 usec) Vt(123.122 mm/usec) KE(3138.18 eV) 
+
+TOF(0.92907 usec) Vt(122.116 mm/usec) KE(3087.09 eV) 
+
+TOF(0.949343 usec) Vt(124.979 mm/usec) KE(3233.52 eV) 
+
+TOF(0.928971 usec) Vt(121.507 mm/usec) KE(3056.36 eV) 
+
+TOF(0.946195 usec) Vt(124.366 mm/usec) KE(3201.88 eV) 
+
+TOF(0.93033 usec) Vt(122.179 mm/usec) KE(3090.28 eV) 
+
+TOF(0.940184 usec) Vt(123.329 mm/usec) KE(3148.74 eV) 
+
+TOF(0.936873 usec) Vt(123.241 mm/usec) KE(3144.24 eV) 
+
+TOF(0.940963 usec) Vt(123.598 mm/usec) KE(3162.47 eV) 
+
+TOF(0.937963 usec) Vt(123.089 mm/usec) KE(3136.49 eV) 
+
+TOF(0.927747 usec) Vt(121.596 mm/usec) KE(3060.85 eV) 
+
+TOF(0.930682 usec) Vt(122.263 mm/usec) KE(3094.52 eV) 
+
+TOF(0.951123 usec) Vt(124.642 mm/usec) KE(3216.13 eV) 
+
+TOF(0.948272 usec) Vt(124.335 mm/usec) KE(3200.27 eV) 
+
+TOF(0.952485 usec) Vt(124.731 mm/usec) KE(3220.72 eV) 
+
+TOF(0.934692 usec) Vt(122.843 mm/usec) KE(3123.93 eV) 
+
+TOF(0.938487 usec) Vt(123.445 mm/usec) KE(3154.66 eV) 
 
