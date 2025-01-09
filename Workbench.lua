@@ -9,13 +9,12 @@ local pulse_duration = 4.5 -- microseconds
 local current_voltage = 0
 
 function segment.flym()
-    ion_run = ion_run +1
     run()
 end
 
---function segment.initialize_run()
-    
---end
+function segment.initialize_run()
+    --ion_run = ion_run +1
+end
 
 function segment.fast_adjust()
     -- Calculate the current voltage based on the time of flight (rise -> stay at max for pulse_duration -> fall)
