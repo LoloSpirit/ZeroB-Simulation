@@ -9,11 +9,25 @@ end
 
 local spawnregion_length = 20 -- mm
 -- fractIons from straub et al. 
-local ion_types = {
+local argon_ions = {
     IonType('Ar+', 39.948, 1, 2.64),
     IonType('Ar2+', 39.948, 2, 0.189)
 }
-local amount_multiplier = 2000
+
+local background_ions = {
+    IonType('CO2+', 43, 1, 0.02),
+    IonType('O2+', 32, 1, 0.02),
+    IonType('N2+', 28, 1, 0.05),
+    IonType('H2O+', 18, 1, 1.01),
+    IonType('OH+', 17, 1, 0.3),
+    IonType('O+', 16, 1, 0.07),
+    IonType('C+', 12, 1, 0.01),
+    IonType('H2+', 2, 1, 0.024),
+    IonType('H+', 1, 1, 0.19)
+}
+
+local ion_types = background_ions
+local amount_multiplier = 5000
 local beam_center = 11 -- mm
 local fwhm = 1.95 -- mm
 local ion_kinetic_energy = 1/40 -- eV
@@ -22,7 +36,7 @@ local ion_kinetic_energy = 1/40 -- eV
 local t = {coordinates = 0}
 
 for k, ion_type in ipairs(ion_types) do
-    local num_ions = amount_multiplier * ion_type.fraction
+    local num_ions = math.ceil(amount_multiplier * ion_type.fraction)
     t[#t+1] = standard_beam {
         n = num_ions,
         tob = 0,
