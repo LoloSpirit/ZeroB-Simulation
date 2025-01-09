@@ -7,61 +7,43 @@ function IonType (name, mass, charge, fraction)
     }
 end
 
-local spawnregion_length = 20
+local spawnregion_length = 24 -- mm
 local ion_types = {
     IonType('Ar+', 39.948, 1, 1),
+    IonType('Ar2+', 39.948, 2, 1)
 }
-local amount_multiplier = 400
-local beam_center = 11
-local max_beam_width = 5 -- mm
-local ion_kinetic_energy = 1/40
-
--- Beam profile parameters from fitted data
-local a = 111.97
-local b = 0.73
-
-function BeamProfile (x)
-    return a * math.exp(-b * x^2)
-end
-
-function GetGaussianBeamOffset ()
-    -- use rejection sampling
-    while true do
-        local x = math.random() * max_beam_width - max_beam_width / 2
-        local u = math.random() * a
-        if u < BeamProfile(x) then
-            return x
-        end
-    end
-end
+local amount_multiplier = 2000
+local beam_center = 11 -- mm
+local fwhm = 1.95 -- mm
+local ion_kinetic_energy = 1/40 -- eV
 
 -- build the particle table type by type
 local t = {coordinates = 0}
 
 for k, ion_type in ipairs(ion_types) do
-    local num_ions = amount_multiplier * ion_type.fraction * spawnregion_length
-    local random_directions = {}
-    local positions = {}
-    for i=1, spawnregion_length do
-        -- create the arrays for position and direction
-        local y = i - spawnregion_length / 2
-        for j=1, amount_multiplier * ion_type.fraction do
-            local random_angle = math.random() * 2 * math.pi
-            table.insert(random_directions, vector(math.cos(random_angle), math.sin(random_angle), 0))
-            local x = beam_center + GetGaussianBeamOffset()
-            table.insert(positions, vector(x, y, 0))
-        end
-    end
+    local num_ions = amount_multiplier * ion_type.fraction
     t[#t+1] = standard_beam {
         n = num_ions,
         tob = 0,
         mass = ion_type.mass,
         charge = ion_type.charge,
-        position = positions,
+        x = gaussian_distribution {
+          mean = beam_center,
+          fwhm = fwhm
+        },
+        y = uniform_distribution {
+          min = -spawnregion_length/2,
+          max = spawnregion_length/2
+        },
+        z = 0,
         ke = ion_kinetic_energy,
+        cwf = 1,
         color = k,
-        direction = random_directions,
-        cwf = 1
+        direction = cone_direction_distribution {
+          axis = vector(1, 0, 0),
+          half_angle = 180, -- 360 degrees - random
+          fill = true
+        }
     }
 end
 
