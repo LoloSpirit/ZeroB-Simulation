@@ -7,11 +7,11 @@ function IonType (name, mass, charge, fraction)
     }
 end
 
-local spawnregion_length = 30
+local spawnregion_length = 20
 local ion_types = {
     IonType('Ar+', 39.948, 1, 1),
 }
-local amount_multiplier = 100
+local amount_multiplier = 400
 local beam_center = 11
 local max_beam_width = 5 -- mm
 local ion_kinetic_energy = 1/40
@@ -35,31 +35,34 @@ function GetGaussianBeamOffset ()
     end
 end
 
--- build the particle table one by one
+-- build the particle table type by type
 local t = {coordinates = 0}
 
 for k, ion_type in ipairs(ion_types) do
+    local num_ions = amount_multiplier * ion_type.fraction * spawnregion_length
+    local random_directions = {}
+    local positions = {}
     for i=1, spawnregion_length do
-        for j=1, amount_multiplier*ion_type.fraction do
-            random_angle = math.random() * 2 * math.pi
-            random_direction = vector(math.cos(random_angle), math.sin(random_angle), 0)
-            random_beam_offset = GetGaussianBeamOffset()
-
-            t[#t+1] = standard_beam {
-                n = 1,
-                tob = 0,
-                mass = ion_type.mass,
-                charge = ion_type.charge,
-                x = beam_center + random_beam_offset,
-                y = i - spawnregion_length / 2,
-                z = 0,
-                ke = ion_kinetic_energy,
-                color = k,
-                direction = random_direction,
-                cwf = 1
-            }
+        -- create the arrays for position and direction
+        local y = i - spawnregion_length / 2
+        for j=1, amount_multiplier * ion_type.fraction do
+            local random_angle = math.random() * 2 * math.pi
+            table.insert(random_directions, vector(math.cos(random_angle), math.sin(random_angle), 0))
+            local x = beam_center + GetGaussianBeamOffset()
+            table.insert(positions, vector(x, y, 0))
         end
     end
+    t[#t+1] = standard_beam {
+        n = num_ions,
+        tob = 0,
+        mass = ion_type.mass,
+        charge = ion_type.charge,
+        position = positions,
+        ke = ion_kinetic_energy,
+        color = k,
+        direction = random_directions,
+        cwf = 1
+    }
 end
 
 particles(t)
