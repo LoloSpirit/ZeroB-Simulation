@@ -11,7 +11,7 @@ local spawnregion_length = 30
 local ion_types = {
     IonType('Ar+', 39.948, 1, 1),
 }
-local amount_multiplier = 15
+local amount_multiplier = 100
 local beam_center = 11
 local max_beam_width = 5 -- mm
 local ion_kinetic_energy = 1/40
