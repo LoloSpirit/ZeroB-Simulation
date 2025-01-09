@@ -29,7 +29,7 @@ local background_ions = {
 local test_ions = {}
 
 for i = 1, 30 do
-    test_ions[#test_ions+1] = IonType('Test'..i, 1, i, i / 30)
+    test_ions[#test_ions+1] = IonType('Test'..i, i, 1, i / 30)
 end
 
 local ion_types = test_ions
