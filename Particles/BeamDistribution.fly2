@@ -26,8 +26,14 @@ local background_ions = {
     IonType('H+', 1, 1, 0.19)
 }
 
-local ion_types = background_ions
-local amount_multiplier = 5000
+local test_ions = {}
+
+for i = 1, 30 do
+    test_ions[#test_ions+1] = IonType('Test'..i, 1, i, i / 30)
+end
+
+local ion_types = test_ions
+local amount_multiplier = 15000
 local beam_center = 11 -- mm
 local fwhm = 1.95 -- mm
 local ion_kinetic_energy = 1/40 -- eV
