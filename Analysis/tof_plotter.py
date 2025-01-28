@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 
 tof = []
-with open(file='Output/tof.txt') as f:
+with open(file='Output/tof-1.txt') as f:
     for line in f:
         try:
             tof.append(float(line.strip()))
