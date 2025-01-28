@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbfe5444-2e37-4d7b-9c7a-91c41d6694ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Particles.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Particles.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Particles.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Particles.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Particles.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Particles.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BeamDistribution.fly2" beforeDir="false" afterPath="$PROJECT_DIR$/BeamDistribution.fly2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workbench.iob" beforeDir="false" afterPath="$PROJECT_DIR$/../Workbench.iob" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workbench.rec" beforeDir="false" afterPath="$PROJECT_DIR$/../Workbench.rec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +17,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
+  "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2rOFZWT5cOXek5yJGHGOuatS9uV" />
   <component name="ProjectViewState">
@@ -45,9 +39,9 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\lsspi\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
-      "C:\\Users\\lsspi\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
-      "C:\\Users\\lsspi\\AppData\\Local\\Symbols\\src"
+      "/Users/lorenzsaalmann/Library/Application Support/JetBrains/Rider2023.2/resharper-host/DecompilerCache",
+      "/Users/lorenzsaalmann/Library/Application Support/JetBrains/Rider2023.2/resharper-host/SourcesCache",
+      "/Users/lorenzsaalmann/.local/share/Symbols/src"
     ]
   }
 }]]></component>
@@ -60,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1736422272131</updated>
       <workItem from="1736422272654" duration="8616000" />
+      <workItem from="1737480331524" duration="415000" />
     </task>
     <servers />
   </component>

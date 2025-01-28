@@ -36,7 +36,7 @@ local ion_types = argon_ions
 local amount_multiplier = 3000
 local beam_center = 11 -- mm
 local fwhm = 1.95 -- mm
-local ion_kinetic_energy = 1/40 -- eV
+local ion_kinetic_energy = 1/25 -- eV
 
 -- build the particle table type by type
 local t = {coordinates = 0}
