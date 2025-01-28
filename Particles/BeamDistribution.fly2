@@ -33,7 +33,7 @@ for i = 1, 30 do
 end
 
 local ion_types = argon_ions
-local amount_multiplier = 3000
+local amount_multiplier = 1000
 local beam_center = 11 -- mm
 local fwhm = 1.95 -- mm
 local ion_kinetic_energy = 1/25 -- eV
