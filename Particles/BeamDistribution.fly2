@@ -10,8 +10,10 @@ end
 local spawnregion_length = 22 -- mm
 -- fractIons from straub et al. 
 local argon_ions = {
-    IonType('Ar+', 39.948, 1, 2.64),
-    IonType('Ar2+', 39.948, 2, 0.189)
+    IonType('Ar+', 39.948, 1, 0.795),
+    IonType('Ar2+', 39.948, 2, 0.872e-1),
+    IonType('Ar3+', 39.948, 3, 6.57e-3),
+    IonType('Ar4+', 39.948, 4, 1.32e-3)
 }
 
 local background_ions = {
@@ -33,10 +35,10 @@ for i = 1, 30 do
 end
 
 local ion_types = argon_ions
-local amount_multiplier = 1000
+local amount_multiplier = 10000
 local beam_center = 11 -- mm
 local fwhm = 1.95 -- mm
-local ion_kinetic_energy = 1/25 -- eV
+local ion_kinetic_energy = 5/25 -- eV
 
 -- build the particle table type by type
 local t = {coordinates = 0}

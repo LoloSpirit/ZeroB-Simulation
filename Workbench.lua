@@ -5,11 +5,12 @@ local max_voltage = 3500 -- volts
 local rise_time = .1 -- microseconds
 local fall_time = .1 -- microseconds
 local pulse_duration = 4.5 -- microseconds
-local extraction_delay = 0.1 -- microseconds
+local extraction_delay = .3 -- microseconds
 
 local current_voltage = 0
 
 function segment.flym()
+    print("Extraction delay: " .. extraction_delay)
     run()
 end
 
@@ -19,12 +20,16 @@ end
 
 function segment.fast_adjust()
     -- Calculate the current voltage based on the time of flight (rise -> stay at max for pulse_duration -> fall)
-    if ion_time_of_flight < rise_time + extraction_delay then
-        current_voltage = max_voltage * ion_time_of_flight / rise_time
-    elseif ion_time_of_flight < rise_time + pulse_duration + extraction_delay then
+    local time = ion_time_of_flight - extraction_delay
+
+    if time < 0 then
+        current_voltage = 0
+    elseif time < rise_time then
+        current_voltage = max_voltage * time / rise_time
+    elseif time < rise_time + pulse_duration then
         current_voltage = max_voltage
-    elseif ion_time_of_flight < rise_time + pulse_duration + fall_time + extraction_delay then
-        current_voltage = max_voltage * (rise_time + pulse_duration + fall_time - ion_time_of_flight) / fall_time
+    elseif time < rise_time + pulse_duration + fall_time then
+        current_voltage = max_voltage * (rise_time + pulse_duration + fall_time - time) / fall_time
     else
         current_voltage = 0
     end

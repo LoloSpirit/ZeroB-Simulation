@@ -2,7 +2,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 positions = []
-with open(file='Output/positions.txt') as f:
+with open(file='Output/pos_data_410.txt') as f:
     for line in f:
         try:
             splits = line.strip().split(',')
@@ -23,11 +23,12 @@ plt.show()
 x_max, x_min = max(x_vals), min(x_vals)
 y_max, y_min = max(y_vals), min(y_vals)
 # put in a grid
-resolution = int(round((x_max - x_min)*4, 0))
+resolution_x = int(round((x_max - x_min)*4, 0))
+resolution_y = int(round((y_max - y_min)*4, 0))
 
 # Create a meshgrid
-x_grid = np.linspace(x_min, x_max, resolution)
-y_grid = np.linspace(y_min, y_max, resolution)
+x_grid = np.linspace(x_min, x_max, resolution_x)
+y_grid = np.linspace(y_min, y_max, resolution_y)
 X, Y = np.meshgrid(x_grid, y_grid)
 
 Z = np.zeros_like(X)
@@ -41,7 +42,7 @@ for i in range(len(x_vals)):
     # Assign the z value to the corresponding grid cell
     Z[iy, ix] += 1
 
-plt.imshow(Z, extent=[x_min, x_max, y_min, y_max], origin='lower', cmap='Greys', aspect='auto')
+plt.imshow(Z, extent=[x_min, x_max, y_min, y_max], origin='lower', cmap='plasma', aspect='auto')
 lim = 8
 aspect = 3
 plt.ylim(-lim, lim)
