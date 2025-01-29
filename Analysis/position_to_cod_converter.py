@@ -49,6 +49,6 @@ def convert_to_grid(input_file, output_file, step=0.020094):
                     f.write(f"{y},{z},{counts[i,j]}\n")
 
 
-input_file = 'Output/pos_forward.txt'
-output_file = 'Output/pos_forward.cod'
+input_file = 'Output/pos_210.txt'
+output_file = 'Output/pos_210.cod'
 convert_to_grid(input_file, output_file)
