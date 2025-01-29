@@ -49,18 +49,6 @@ def convert_to_grid(input_file, output_file, step=0.020094):
                     f.write(f"{y},{z},{counts[i,j]}\n")
 
 
-input_file = 'Output/posdata_0,2eV.txt'
-output_file = 'Output/posdata_0,2eV.cod'
-convert_to_grid(input_file, output_file)
-
-input_file = 'Output/pos_data_410.txt'
-output_file = 'Output/pos_data_410.cod'
-convert_to_grid(input_file, output_file)
-
-input_file = 'Output/positions.txt'
-output_file = 'Output/positions.cod'
-convert_to_grid(input_file, output_file)
-
-input_file = 'Output/pos_data_fine.txt'
-output_file = 'Output/pos_data_fine.cod'
+input_file = 'Output/pos_forward.txt'
+output_file = 'Output/pos_forward.cod'
 convert_to_grid(input_file, output_file)

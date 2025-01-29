@@ -38,7 +38,7 @@ local ion_types = argon_ions
 local amount_multiplier = 10000
 local beam_center = 11 -- mm
 local fwhm = 1.95 -- mm
-local ion_kinetic_energy = 5/25 -- eV
+local ion_kinetic_energy = 1/25 -- eV
 
 -- build the particle table type by type
 local t = {coordinates = 0}
@@ -66,8 +66,9 @@ for k, ion_type in ipairs(ion_types) do
         cwf = 1,
         color = k,
         direction = cone_direction_distribution {
-          axis = vector(1, 0, 0),
+          axis = vector(0, 1, 0),
           half_angle = 180, -- 360 degrees - random
+          --half_angle = 100, -- prefer forward direction
           fill = true
         }
     }
