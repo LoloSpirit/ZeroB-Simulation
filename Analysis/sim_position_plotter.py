@@ -18,6 +18,8 @@ y_vals = [p[2] for p in filtered]
 
 plt.scatter(x_vals, y_vals, s=1, color='black')
 plt.gca().set_aspect('equal')
+plt.xlabel('X in mm')
+plt.ylabel('Y in mm')
 plt.show()
 
 x_max, x_min = max(x_vals), min(x_vals)
