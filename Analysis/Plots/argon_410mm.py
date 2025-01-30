@@ -1,6 +1,9 @@
 import numpy as np
 from TOF_Spectra.tof_spectrum_plotter import plot, PeakSettings, Transformation, ZoomInSettings
 
+files = ['../Output/tof_Ar1-4+_1000eV_410mm.dat']
+peak_settings = PeakSettings(match_peaks=True, normalize=True, min_height_percent=.001, width=2, wlen=50)
+plot(files, max_time=4, interval=[1500, 3800], peak_settings=peak_settings)
 
 files = ['../Output/tof_Ar1-4+_1000eV_410mm.dat', '../Output/tof_Ar1-4+_1000eV_210mm.dat']
 peak_settings = PeakSettings(match_peaks=True, normalize=True, min_height_percent=.001, width=2, wlen=50)

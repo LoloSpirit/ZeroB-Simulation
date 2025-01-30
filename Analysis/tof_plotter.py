@@ -1,7 +1,7 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
-files = ['Output/background_ions_410mm.txt']
+files = ['Output/res_tof.txt.txt']
 colors = ['black', 'red', 'blue', 'green', 'orange', 'purple']
 res = 4096
 plt.figure(figsize=(10.5, 5))
