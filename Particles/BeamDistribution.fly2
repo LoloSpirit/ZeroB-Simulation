@@ -30,11 +30,11 @@ local background_ions = {
 
 local test_ions = {}
 
-for i = 1, 30 do
-    test_ions[#test_ions+1] = IonType('Test'..i, i, 1, 1 / 30)
+for i = 1, 60 do
+    test_ions[#test_ions+1] = IonType('Test'..i/2, i/2, 1, 1 / 30)
 end
 
-local ion_types = argon_ions
+local ion_types = test_ions
 local amount_multiplier = 10000
 local beam_center = 11 -- mm
 local fwhm = 1.95 -- mm
@@ -68,7 +68,7 @@ for k, ion_type in ipairs(ion_types) do
         direction = cone_direction_distribution {
           axis = vector(0, 1, 0),
           half_angle = 180, -- 360 degrees - random
-          --half_angle = 100, -- prefer forward direction
+          --half_angle = 50, -- prefer forward direction
           fill = true
         }
     }

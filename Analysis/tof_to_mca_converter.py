@@ -42,10 +42,10 @@ def convert_to_mca(input_file, output_file, channel_count, max_time):
             f.write(f"{i} {count}\n")
 
 
-input_file = 'Output/tof_Ar1-4+_1000eV_210mm.txt'
-output_file = 'Output/tof_Ar1-4+_1000eV_210mm.dat'
-convert_to_mca(input_file, output_file, 4096, 2.5)# in usec
+input_file = 'Output/res_tof_fine.txt'
+output_file = 'Output/test_masses_1-30u_fine.dat'
+convert_to_mca(input_file, output_file, 4096, 4)# in usec
 
-input_file = 'Output/tof_Ar1-4+_1000eV_410mm.txt'
-output_file = 'Output/tof_Ar1-4+_1000eV_410mm.dat'
+input_file = 'Output/tof_no_bias.txt'
+output_file = 'Output/tof_no_bias.dat'
 convert_to_mca(input_file, output_file, 4096, 4)# in usec
