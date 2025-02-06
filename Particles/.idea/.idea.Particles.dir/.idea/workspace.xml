@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bbfe5444-2e37-4d7b-9c7a-91c41d6694ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/BeamDistribution.fly2" beforeDir="false" afterPath="$PROJECT_DIR$/BeamDistribution.fly2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Workbench.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../Workbench.lua" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
       <workItem from="1736422272654" duration="8616000" />
       <workItem from="1738057776230" duration="74000" />
       <workItem from="1738844433555" duration="1983000" />
+      <workItem from="1738855483456" duration="7879000" />
     </task>
     <servers />
   </component>
