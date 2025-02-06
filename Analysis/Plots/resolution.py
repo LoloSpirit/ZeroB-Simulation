@@ -7,9 +7,9 @@ from scipy.signal import find_peaks
 from TOF_Spectra.tof_spectrum_plotter import plot, PeakSettings, Transformation, ZoomInSettings
 
 ions = []
-files = ['../Output/test_masses_1-30u_fine.dat', '../Output/test_masses_1-30u.dat']
+files = ['../Output/test_masses_1-60u_fine.dat', '../Output/test_masses_1-60u.dat']
 peak_settings = PeakSettings(min_height_percent=.001, width=2, wlen=50)
-plot(files, max_time=4096, interval=[350, 3200], peak_settings=peak_settings)
+plot(files, max_time=4096, interval=[350, 4096], peak_settings=peak_settings)
 
 def transform_function(p, a, b):
     p = np.array(p)
@@ -20,6 +20,7 @@ target_points = np.array([.5, 2, 6, 30])
 transformation = Transformation(transform_function, original_points, target_points, 1)
 
 zoom = ZoomInSettings(enabled=True, xlim=(8,22))
+plot(files, transformation=transformation, peak_settings=peak_settings, interval=[350, 4096], product_labels=ions)
 plot(files, transformation=transformation, peak_settings=peak_settings, interval=[350, 3200], product_labels=ions)
 
 
@@ -80,6 +81,9 @@ def fit(x, a, b):
 x = x[peaks]
 x_fine = np.linspace(min(x), max(x), 100)
 
+files = ['../Output/test_masses_1-60u_fine_210.dat', '../Output/test_masses_1-60u_210.dat']
+peak_settings = PeakSettings(min_height_percent=.001, width=2, wlen=50)
+plot(files, max_time=4096, interval=[350, 4096], peak_settings=peak_settings)
 # fit resolutions
 params, _ = curve_fit(fit, x, resolution, p0=[1, 0])
 a_fit, b_fit = params
@@ -91,6 +95,11 @@ plt.scatter(x, resolution, marker='x', linewidth=1, color='black', label="Simuli
 plt.legend()
 plt.show()
 
+def transform_function(p, a, b):
+    p = np.array(p)
+    return a * p ** 2 + b
+original_points = np.array([451, 851, 1428, 3133])
+target_points = np.array([.5, 2, 6, 30])
 
 # load experimental data for comparison
 x, y = np.loadtxt('../../../DataAnalysis/TOF_Spectra/MCA_Data/restgas.dat', unpack=True)
@@ -108,6 +117,8 @@ y = gaussian_filter1d(y, 1)
 peaks, _ = find_peaks(y, height=200, width=1, wlen=100)
 plt.plot(x, y, color='blue')
 
+zoom = ZoomInSettings(enabled=True, xlim=(8,22))
+plot(files, transformation=transformation, peak_settings=peak_settings, interval=[350, 4096], product_labels=ions)
 # Fit peaks and determine resolution
 resolution = []
 

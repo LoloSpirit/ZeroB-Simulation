@@ -2,7 +2,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 positions = []
-with open(file='Output/pos_data_410.txt') as f:
+with open(file='Output/pos_repulsion.txt') as f:
     for line in f:
         try:
             splits = line.strip().split(',')
