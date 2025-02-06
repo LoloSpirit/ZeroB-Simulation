@@ -2,7 +2,7 @@ import numpy as np
 from TOF_Spectra.tof_spectrum_plotter import plot, PeakSettings, Transformation, ZoomInSettings
 
 ions = []
-files = ['../Output/test_masses_1-60u_fine.dat', '../Output/test_masses_1-60u.dat']
+files = ['../Output/test_masses_1-60u.dat', '../Output/test_masses_1-60u_fine.dat']
 peak_settings = PeakSettings(min_height_percent=.001, width=2, wlen=50)
 plot(files, max_time=4096, interval=[350, 4096], peak_settings=peak_settings)
 

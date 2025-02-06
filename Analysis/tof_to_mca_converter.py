@@ -42,10 +42,8 @@ def convert_to_mca(input_file, output_file, channel_count, max_time):
             f.write(f"{i} {count}\n")
 
 
+
+
 input_file = 'Output/tof_res_fine.txt'
 output_file = 'Output/test_masses_1-60u_fine.dat'
-convert_to_mca(input_file, output_file, 4096, 4)# in usec
-
-input_file = 'Output/tof_res.txt'
-output_file = 'Output/test_masses_1-60u.dat'
 convert_to_mca(input_file, output_file, 4096, 4)# in usec
