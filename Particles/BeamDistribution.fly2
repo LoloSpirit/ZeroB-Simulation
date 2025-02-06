@@ -41,10 +41,10 @@ end
 local test_ions_fine = {}
 
 for i = 1, 120 do
-    test_ions_fine[#test_ions_fine+1] = IonType('Test'..i/2, i/2, 1, 1 / 60)
+    test_ions_fine[#test_ions_fine+1] = IonType('Test'..i/2, i/2, 1, 1 / 30)
 end
 
-local ion_types = test_ions
+local ion_types = test_ions_fine
 local amount_multiplier = 10000
 local beam_center = 11 -- mm
 local fwhm = 1.95 -- mm
