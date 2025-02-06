@@ -16,6 +16,10 @@ local argon_ions = {
     IonType('Ar4+', 39.948, 4, 1.32e-3)
 }
 
+local respulsion = {
+    IonType('Ar+', 39.948, 1, 1),
+}
+
 local background_ions = {
     IonType('CO2+', 43, 1, 0.02),
     IonType('O2+', 32, 1, 0.02),
@@ -31,7 +35,13 @@ local background_ions = {
 local test_ions = {}
 
 for i = 1, 60 do
-    test_ions[#test_ions+1] = IonType('Test'..i/2, i/2, 1, 1 / 30)
+    test_ions[#test_ions+1] = IonType('Test'..i, i, 1, 1 / 30)
+end
+
+local test_ions_fine = {}
+
+for i = 1, 120 do
+    test_ions_fine[#test_ions_fine+1] = IonType('Test'..i/2, i/2, 1, 1 / 60)
 end
 
 local ion_types = test_ions
